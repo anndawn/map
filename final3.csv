@@ -1,0 +1,1509 @@
+﻿Sector,District,District_Code,population,Service,Number,headcount
+private,Buffalo City MM,BUF,856897,Psychologists,75,8.8
+private,Buffalo City MM,BUF,856897,Medical_specialists,127,14.8
+private,Buffalo City MM,BUF,856897,Medical_practitioners,192,22.4
+private,Buffalo City MM,BUF,856897,Clinical_associates,0,0
+private,Buffalo City MM,BUF,856897,Dental_practitioners,49,5.7
+private,Buffalo City MM,BUF,856897,Dental_therapists,1,0.1
+private,Buffalo City MM,BUF,856897,Enrolled_nurses,8,0.9
+private,Buffalo City MM,BUF,856897,Nursing_assistants,0,0
+private,Buffalo City MM,BUF,856897,Occupational_therapists,20,2.3
+private,Buffalo City MM,BUF,856897,Pharmacist_assistant,47,5.5
+private,Buffalo City MM,BUF,856897,Pharmacists,87,10.2
+private,Buffalo City MM,BUF,856897,Physiotherapists,40,4.7
+private,Buffalo City MM,BUF,856897,Professional_nurses,192,22.4
+private,Buffalo City MM,BUF,856897,Radiographers,8,0.9
+private,Cape Town MM,CPT,4140565,Psychologists,1039,25.1
+private,Cape Town MM,CPT,4140565,Medical_specialists,1492,36
+private,Cape Town MM,CPT,4140565,Medical_practitioners,1585,38.3
+private,Cape Town MM,CPT,4140565,Clinical_associates,0,0
+private,Cape Town MM,CPT,4140565,Dental_practitioners,609,14.7
+private,Cape Town MM,CPT,4140565,Dental_therapists,4,0.1
+private,Cape Town MM,CPT,4140565,Enrolled_nurses,51,1.2
+private,Cape Town MM,CPT,4140565,Nursing_assistants,6,0.1
+private,Cape Town MM,CPT,4140565,Occupational_therapists,473,11.4
+private,Cape Town MM,CPT,4140565,Pharmacist_assistant,260,6.3
+private,Cape Town MM,CPT,4140565,Pharmacists,580,14
+private,Cape Town MM,CPT,4140565,Physiotherapists,797,19.2
+private,Cape Town MM,CPT,4140565,Professional_nurses,1551,37.5
+private,Cape Town MM,CPT,4140565,Radiographers,61,1.5
+private,West Coast DM,DC1,459686,Psychologists,18,3.9
+private,West Coast DM,DC1,459686,Medical_specialists,29,6.3
+private,West Coast DM,DC1,459686,Medical_practitioners,95,20.7
+private,West Coast DM,DC1,459686,Clinical_associates,0,0
+private,West Coast DM,DC1,459686,Dental_practitioners,34,7.4
+private,West Coast DM,DC1,459686,Dental_therapists,0,0
+private,West Coast DM,DC1,459686,Enrolled_nurses,1,0.2
+private,West Coast DM,DC1,459686,Nursing_assistants,0,0
+private,West Coast DM,DC1,459686,Occupational_therapists,11,2.4
+private,West Coast DM,DC1,459686,Pharmacist_assistant,18,3.9
+private,West Coast DM,DC1,459686,Pharmacists,46,10
+private,West Coast DM,DC1,459686,Physiotherapists,27,5.9
+private,West Coast DM,DC1,459686,Professional_nurses,48,10.4
+private,West Coast DM,DC1,459686,Radiographers,2,0.4
+private,Sarah Baartman DM,DC10,524603,Psychologists,43,8.2
+private,Sarah Baartman DM,DC10,524603,Medical_specialists,23,4.4
+private,Sarah Baartman DM,DC10,524603,Medical_practitioners,81,15.4
+private,Sarah Baartman DM,DC10,524603,Clinical_associates,0,0
+private,Sarah Baartman DM,DC10,524603,Dental_practitioners,31,5.9
+private,Sarah Baartman DM,DC10,524603,Dental_therapists,1,0.2
+private,Sarah Baartman DM,DC10,524603,Enrolled_nurses,3,0.6
+private,Sarah Baartman DM,DC10,524603,Nursing_assistants,1,0.2
+private,Sarah Baartman DM,DC10,524603,Occupational_therapists,10,1.9
+private,Sarah Baartman DM,DC10,524603,Pharmacist_assistant,23,4.4
+private,Sarah Baartman DM,DC10,524603,Pharmacists,43,8.2
+private,Sarah Baartman DM,DC10,524603,Physiotherapists,31,5.9
+private,Sarah Baartman DM,DC10,524603,Professional_nurses,83,15.8
+private,Sarah Baartman DM,DC10,524603,Radiographers,2,0.4
+private,Amathole DM,DC12,995414,Psychologists,6,0.6
+private,Amathole DM,DC12,995414,Medical_specialists,7,0.7
+private,Amathole DM,DC12,995414,Medical_practitioners,49,4.9
+private,Amathole DM,DC12,995414,Clinical_associates,0,0
+private,Amathole DM,DC12,995414,Dental_practitioners,5,0.5
+private,Amathole DM,DC12,995414,Dental_therapists,0,0
+private,Amathole DM,DC12,995414,Enrolled_nurses,0,0
+private,Amathole DM,DC12,995414,Nursing_assistants,0,0
+private,Amathole DM,DC12,995414,Occupational_therapists,3,0.3
+private,Amathole DM,DC12,995414,Pharmacist_assistant,2,0.2
+private,Amathole DM,DC12,995414,Pharmacists,15,1.5
+private,Amathole DM,DC12,995414,Physiotherapists,8,0.8
+private,Amathole DM,DC12,995414,Professional_nurses,26,2.6
+private,Amathole DM,DC12,995414,Radiographers,1,0.1
+private,C Hani DM,DC13,818150,Psychologists,9,1.1
+private,C Hani DM,DC13,818150,Medical_specialists,14,1.7
+private,C Hani DM,DC13,818150,Medical_practitioners,74,9
+private,C Hani DM,DC13,818150,Clinical_associates,0,0
+private,C Hani DM,DC13,818150,Dental_practitioners,14,1.7
+private,C Hani DM,DC13,818150,Dental_therapists,1,0.1
+private,C Hani DM,DC13,818150,Enrolled_nurses,2,0.2
+private,C Hani DM,DC13,818150,Nursing_assistants,0,0
+private,C Hani DM,DC13,818150,Occupational_therapists,9,1.1
+private,C Hani DM,DC13,818150,Pharmacist_assistant,8,1
+private,C Hani DM,DC13,818150,Pharmacists,24,2.9
+private,C Hani DM,DC13,818150,Physiotherapists,12,1.5
+private,C Hani DM,DC13,818150,Professional_nurses,39,4.8
+private,C Hani DM,DC13,818150,Radiographers,3,0.4
+private,Joe Gqabi DM,DC14,373266,Psychologists,0,0
+private,Joe Gqabi DM,DC14,373266,Medical_specialists,3,0.8
+private,Joe Gqabi DM,DC14,373266,Medical_practitioners,22,5.9
+private,Joe Gqabi DM,DC14,373266,Clinical_associates,0,0
+private,Joe Gqabi DM,DC14,373266,Dental_practitioners,3,0.8
+private,Joe Gqabi DM,DC14,373266,Dental_therapists,4,1.1
+private,Joe Gqabi DM,DC14,373266,Enrolled_nurses,0,0
+private,Joe Gqabi DM,DC14,373266,Nursing_assistants,0,0
+private,Joe Gqabi DM,DC14,373266,Occupational_therapists,1,0.3
+private,Joe Gqabi DM,DC14,373266,Pharmacist_assistant,3,0.8
+private,Joe Gqabi DM,DC14,373266,Pharmacists,11,2.9
+private,Joe Gqabi DM,DC14,373266,Physiotherapists,4,1.1
+private,Joe Gqabi DM,DC14,373266,Professional_nurses,15,4
+private,Joe Gqabi DM,DC14,373266,Radiographers,0,0
+private,OR Tambo DM,DC15,1495055,Psychologists,13,0.9
+private,OR Tambo DM,DC15,1495055,Medical_specialists,40,2.7
+private,OR Tambo DM,DC15,1495055,Medical_practitioners,104,7
+private,OR Tambo DM,DC15,1495055,Clinical_associates,0,0
+private,OR Tambo DM,DC15,1495055,Dental_practitioners,13,0.9
+private,OR Tambo DM,DC15,1495055,Dental_therapists,4,0.3
+private,OR Tambo DM,DC15,1495055,Enrolled_nurses,0,0
+private,OR Tambo DM,DC15,1495055,Nursing_assistants,1,0.1
+private,OR Tambo DM,DC15,1495055,Occupational_therapists,10,0.7
+private,OR Tambo DM,DC15,1495055,Pharmacist_assistant,19,1.3
+private,OR Tambo DM,DC15,1495055,Pharmacists,31,2.1
+private,OR Tambo DM,DC15,1495055,Physiotherapists,10,0.7
+private,OR Tambo DM,DC15,1495055,Professional_nurses,75,5
+private,OR Tambo DM,DC15,1495055,Radiographers,8,0.5
+private,Xhariep DM,DC16,154811,Psychologists,0,0
+private,Xhariep DM,DC16,154811,Medical_specialists,0,0
+private,Xhariep DM,DC16,154811,Medical_practitioners,20,12.9
+private,Xhariep DM,DC16,154811,Clinical_associates,0,0
+private,Xhariep DM,DC16,154811,Dental_practitioners,1,0.6
+private,Xhariep DM,DC16,154811,Dental_therapists,11,7.1
+private,Xhariep DM,DC16,154811,Enrolled_nurses,0,0
+private,Xhariep DM,DC16,154811,Nursing_assistants,1,0.6
+private,Xhariep DM,DC16,154811,Occupational_therapists,6,3.9
+private,Xhariep DM,DC16,154811,Pharmacist_assistant,0,0
+private,Xhariep DM,DC16,154811,Pharmacists,7,4.5
+private,Xhariep DM,DC16,154811,Physiotherapists,5,3.2
+private,Xhariep DM,DC16,154811,Professional_nurses,8,5.2
+private,Xhariep DM,DC16,154811,Radiographers,1,0.6
+private,Lejweleputswa DM,DC18,673024,Psychologists,7,1
+private,Lejweleputswa DM,DC18,673024,Medical_specialists,39,5.8
+private,Lejweleputswa DM,DC18,673024,Medical_practitioners,110,16.3
+private,Lejweleputswa DM,DC18,673024,Clinical_associates,0,0
+private,Lejweleputswa DM,DC18,673024,Dental_practitioners,30,4.5
+private,Lejweleputswa DM,DC18,673024,Dental_therapists,5,0.7
+private,Lejweleputswa DM,DC18,673024,Enrolled_nurses,1,0.1
+private,Lejweleputswa DM,DC18,673024,Nursing_assistants,0,0
+private,Lejweleputswa DM,DC18,673024,Occupational_therapists,14,2.1
+private,Lejweleputswa DM,DC18,673024,Pharmacist_assistant,30,4.5
+private,Lejweleputswa DM,DC18,673024,Pharmacists,54,8
+private,Lejweleputswa DM,DC18,673024,Physiotherapists,24,3.6
+private,Lejweleputswa DM,DC18,673024,Professional_nurses,110,16.3
+private,Lejweleputswa DM,DC18,673024,Radiographers,6,0.9
+private,T Mofutsanyana DM,DC19,792608,Psychologists,19,2.4
+private,T Mofutsanyana DM,DC19,792608,Medical_specialists,48,6.1
+private,T Mofutsanyana DM,DC19,792608,Medical_practitioners,114,14.4
+private,T Mofutsanyana DM,DC19,792608,Clinical_associates,0,0
+private,T Mofutsanyana DM,DC19,792608,Dental_practitioners,23,2.9
+private,T Mofutsanyana DM,DC19,792608,Dental_therapists,7,0.9
+private,T Mofutsanyana DM,DC19,792608,Enrolled_nurses,0,0
+private,T Mofutsanyana DM,DC19,792608,Nursing_assistants,0,0
+private,T Mofutsanyana DM,DC19,792608,Occupational_therapists,18,2.3
+private,T Mofutsanyana DM,DC19,792608,Pharmacist_assistant,14,1.8
+private,T Mofutsanyana DM,DC19,792608,Pharmacists,43,5.4
+private,T Mofutsanyana DM,DC19,792608,Physiotherapists,29,3.7
+private,T Mofutsanyana DM,DC19,792608,Professional_nurses,83,10.5
+private,T Mofutsanyana DM,DC19,792608,Radiographers,5,0.6
+private,Cape Winelands DM,DC2,916384,Psychologists,159,17.4
+private,Cape Winelands DM,DC2,916384,Medical_specialists,168,18.3
+private,Cape Winelands DM,DC2,916384,Medical_practitioners,244,26.6
+private,Cape Winelands DM,DC2,916384,Clinical_associates,0,0
+private,Cape Winelands DM,DC2,916384,Dental_practitioners,82,8.9
+private,Cape Winelands DM,DC2,916384,Dental_therapists,0,0
+private,Cape Winelands DM,DC2,916384,Enrolled_nurses,9,1
+private,Cape Winelands DM,DC2,916384,Nursing_assistants,0,0
+private,Cape Winelands DM,DC2,916384,Occupational_therapists,57,6.2
+private,Cape Winelands DM,DC2,916384,Pharmacist_assistant,37,4
+private,Cape Winelands DM,DC2,916384,Pharmacists,89,9.7
+private,Cape Winelands DM,DC2,916384,Physiotherapists,113,12.3
+private,Cape Winelands DM,DC2,916384,Professional_nurses,206,22.5
+private,Cape Winelands DM,DC2,916384,Radiographers,8,0.9
+private,Fezile Dabi DM,DC20,504761,Psychologists,22,4.4
+private,Fezile Dabi DM,DC20,504761,Medical_specialists,23,4.6
+private,Fezile Dabi DM,DC20,504761,Medical_practitioners,94,18.6
+private,Fezile Dabi DM,DC20,504761,Clinical_associates,0,0
+private,Fezile Dabi DM,DC20,504761,Dental_practitioners,23,4.6
+private,Fezile Dabi DM,DC20,504761,Dental_therapists,5,1
+private,Fezile Dabi DM,DC20,504761,Enrolled_nurses,2,0.4
+private,Fezile Dabi DM,DC20,504761,Nursing_assistants,1,0.2
+private,Fezile Dabi DM,DC20,504761,Occupational_therapists,13,2.6
+private,Fezile Dabi DM,DC20,504761,Pharmacist_assistant,15,3
+private,Fezile Dabi DM,DC20,504761,Pharmacists,49,9.7
+private,Fezile Dabi DM,DC20,504761,Physiotherapists,25,5
+private,Fezile Dabi DM,DC20,504761,Professional_nurses,87,17.2
+private,Fezile Dabi DM,DC20,504761,Radiographers,3,0.6
+private,Ugu DM,DC21,787096,Psychologists,17,2.2
+private,Ugu DM,DC21,787096,Medical_specialists,52,6.6
+private,Ugu DM,DC21,787096,Medical_practitioners,118,15
+private,Ugu DM,DC21,787096,Clinical_associates,0,0
+private,Ugu DM,DC21,787096,Dental_practitioners,31,3.9
+private,Ugu DM,DC21,787096,Dental_therapists,8,1
+private,Ugu DM,DC21,787096,Enrolled_nurses,1,0.1
+private,Ugu DM,DC21,787096,Nursing_assistants,0,0
+private,Ugu DM,DC21,787096,Occupational_therapists,8,1
+private,Ugu DM,DC21,787096,Pharmacist_assistant,18,2.3
+private,Ugu DM,DC21,787096,Pharmacists,52,6.6
+private,Ugu DM,DC21,787096,Physiotherapists,25,3.2
+private,Ugu DM,DC21,787096,Professional_nurses,100,12.7
+private,Ugu DM,DC21,787096,Radiographers,8,1
+private,uMgungundlovu DM,DC22,1165427,Psychologists,106,9.1
+private,uMgungundlovu DM,DC22,1165427,Medical_specialists,170,14.6
+private,uMgungundlovu DM,DC22,1165427,Medical_practitioners,254,21.8
+private,uMgungundlovu DM,DC22,1165427,Clinical_associates,0,0
+private,uMgungundlovu DM,DC22,1165427,Dental_practitioners,64,5.5
+private,uMgungundlovu DM,DC22,1165427,Dental_therapists,17,1.5
+private,uMgungundlovu DM,DC22,1165427,Enrolled_nurses,3,0.3
+private,uMgungundlovu DM,DC22,1165427,Nursing_assistants,0,0
+private,uMgungundlovu DM,DC22,1165427,Occupational_therapists,55,4.7
+private,uMgungundlovu DM,DC22,1165427,Pharmacist_assistant,51,4.4
+private,uMgungundlovu DM,DC22,1165427,Pharmacists,103,8.8
+private,uMgungundlovu DM,DC22,1165427,Physiotherapists,90,7.7
+private,uMgungundlovu DM,DC22,1165427,Professional_nurses,255,21.9
+private,uMgungundlovu DM,DC22,1165427,Radiographers,14,1.2
+private,uThukela DM,DC23,758834,Psychologists,7,0.9
+private,uThukela DM,DC23,758834,Medical_specialists,29,3.8
+private,uThukela DM,DC23,758834,Medical_practitioners,68,9
+private,uThukela DM,DC23,758834,Clinical_associates,0,0
+private,uThukela DM,DC23,758834,Dental_practitioners,14,1.8
+private,uThukela DM,DC23,758834,Dental_therapists,4,0.5
+private,uThukela DM,DC23,758834,Enrolled_nurses,5,0.7
+private,uThukela DM,DC23,758834,Nursing_assistants,0,0
+private,uThukela DM,DC23,758834,Occupational_therapists,8,1.1
+private,uThukela DM,DC23,758834,Pharmacist_assistant,8,1.1
+private,uThukela DM,DC23,758834,Pharmacists,29,3.8
+private,uThukela DM,DC23,758834,Physiotherapists,12,1.6
+private,uThukela DM,DC23,758834,Professional_nurses,36,4.7
+private,uThukela DM,DC23,758834,Radiographers,3,0.4
+private,uMzinyathi DM,DC24,568386,Psychologists,5,0.9
+private,uMzinyathi DM,DC24,568386,Medical_specialists,9,1.6
+private,uMzinyathi DM,DC24,568386,Medical_practitioners,37,6.5
+private,uMzinyathi DM,DC24,568386,Clinical_associates,0,0
+private,uMzinyathi DM,DC24,568386,Dental_practitioners,6,1.1
+private,uMzinyathi DM,DC24,568386,Dental_therapists,4,0.7
+private,uMzinyathi DM,DC24,568386,Enrolled_nurses,0,0
+private,uMzinyathi DM,DC24,568386,Nursing_assistants,0,0
+private,uMzinyathi DM,DC24,568386,Occupational_therapists,5,0.9
+private,uMzinyathi DM,DC24,568386,Pharmacist_assistant,1,0.2
+private,uMzinyathi DM,DC24,568386,Pharmacists,12,2.1
+private,uMzinyathi DM,DC24,568386,Physiotherapists,7,1.2
+private,uMzinyathi DM,DC24,568386,Professional_nurses,17,3
+private,uMzinyathi DM,DC24,568386,Radiographers,4,0.7
+private,Amajuba DM,DC25,576908,Psychologists,13,2.3
+private,Amajuba DM,DC25,576908,Medical_specialists,42,7.3
+private,Amajuba DM,DC25,576908,Medical_practitioners,76,13.2
+private,Amajuba DM,DC25,576908,Clinical_associates,0,0
+private,Amajuba DM,DC25,576908,Dental_practitioners,20,3.5
+private,Amajuba DM,DC25,576908,Dental_therapists,2,0.3
+private,Amajuba DM,DC25,576908,Enrolled_nurses,0,0
+private,Amajuba DM,DC25,576908,Nursing_assistants,0,0
+private,Amajuba DM,DC25,576908,Occupational_therapists,9,1.6
+private,Amajuba DM,DC25,576908,Pharmacist_assistant,13,2.3
+private,Amajuba DM,DC25,576908,Pharmacists,29,5
+private,Amajuba DM,DC25,576908,Physiotherapists,17,2.9
+private,Amajuba DM,DC25,576908,Professional_nurses,47,8.1
+private,Amajuba DM,DC25,576908,Radiographers,9,1.6
+private,Zululand DM,DC26,880638,Psychologists,10,1.1
+private,Zululand DM,DC26,880638,Medical_specialists,18,2
+private,Zululand DM,DC26,880638,Medical_practitioners,58,6.6
+private,Zululand DM,DC26,880638,Clinical_associates,0,0
+private,Zululand DM,DC26,880638,Dental_practitioners,12,1.4
+private,Zululand DM,DC26,880638,Dental_therapists,0,0
+private,Zululand DM,DC26,880638,Enrolled_nurses,0,0
+private,Zululand DM,DC26,880638,Nursing_assistants,0,0
+private,Zululand DM,DC26,880638,Occupational_therapists,10,1.1
+private,Zululand DM,DC26,880638,Pharmacist_assistant,3,0.3
+private,Zululand DM,DC26,880638,Pharmacists,18,2
+private,Zululand DM,DC26,880638,Physiotherapists,20,2.3
+private,Zululand DM,DC26,880638,Professional_nurses,28,3.2
+private,Zululand DM,DC26,880638,Radiographers,13,1.5
+private,uMkhanyakude DM,DC27,696042,Psychologists,3,0.4
+private,uMkhanyakude DM,DC27,696042,Medical_specialists,14,2
+private,uMkhanyakude DM,DC27,696042,Medical_practitioners,32,4.6
+private,uMkhanyakude DM,DC27,696042,Clinical_associates,0,0
+private,uMkhanyakude DM,DC27,696042,Dental_practitioners,5,0.7
+private,uMkhanyakude DM,DC27,696042,Dental_therapists,9,1.3
+private,uMkhanyakude DM,DC27,696042,Enrolled_nurses,0,0
+private,uMkhanyakude DM,DC27,696042,Nursing_assistants,0,0
+private,uMkhanyakude DM,DC27,696042,Occupational_therapists,0,0
+private,uMkhanyakude DM,DC27,696042,Pharmacist_assistant,6,0.9
+private,uMkhanyakude DM,DC27,696042,Pharmacists,17,2.4
+private,uMkhanyakude DM,DC27,696042,Physiotherapists,9,1.3
+private,uMkhanyakude DM,DC27,696042,Professional_nurses,15,2.2
+private,uMkhanyakude DM,DC27,696042,Radiographers,2,0.3
+private,King Cetshwayo DM,DC28,998053,Psychologists,37,3.7
+private,King Cetshwayo DM,DC28,998053,Medical_specialists,80,8
+private,King Cetshwayo DM,DC28,998053,Medical_practitioners,108,10.8
+private,King Cetshwayo DM,DC28,998053,Clinical_associates,1,0.1
+private,King Cetshwayo DM,DC28,998053,Dental_practitioners,23,2.3
+private,King Cetshwayo DM,DC28,998053,Dental_therapists,7,0.7
+private,King Cetshwayo DM,DC28,998053,Enrolled_nurses,3,0.3
+private,King Cetshwayo DM,DC28,998053,Nursing_assistants,0,0
+private,King Cetshwayo DM,DC28,998053,Occupational_therapists,9,0.9
+private,King Cetshwayo DM,DC28,998053,Pharmacist_assistant,27,2.7
+private,King Cetshwayo DM,DC28,998053,Pharmacists,41,4.1
+private,King Cetshwayo DM,DC28,998053,Physiotherapists,27,2.7
+private,King Cetshwayo DM,DC28,998053,Professional_nurses,140,14
+private,King Cetshwayo DM,DC28,998053,Radiographers,17,1.7
+private,iLembe DM,DC29,704966,Psychologists,24,3.4
+private,iLembe DM,DC29,704966,Medical_specialists,44,6.2
+private,iLembe DM,DC29,704966,Medical_practitioners,88,12.5
+private,iLembe DM,DC29,704966,Clinical_associates,0,0
+private,iLembe DM,DC29,704966,Dental_practitioners,24,3.4
+private,iLembe DM,DC29,704966,Dental_therapists,9,1.3
+private,iLembe DM,DC29,704966,Enrolled_nurses,0,0
+private,iLembe DM,DC29,704966,Nursing_assistants,0,0
+private,iLembe DM,DC29,704966,Occupational_therapists,12,1.7
+private,iLembe DM,DC29,704966,Pharmacist_assistant,13,1.8
+private,iLembe DM,DC29,704966,Pharmacists,32,4.5
+private,iLembe DM,DC29,704966,Physiotherapists,27,3.8
+private,iLembe DM,DC29,704966,Professional_nurses,60,8.5
+private,iLembe DM,DC29,704966,Radiographers,3,0.4
+private,Overberg DM,DC3,293504,Psychologists,21,7.2
+private,Overberg DM,DC3,293504,Medical_specialists,47,16
+private,Overberg DM,DC3,293504,Medical_practitioners,86,29.3
+private,Overberg DM,DC3,293504,Clinical_associates,0,0
+private,Overberg DM,DC3,293504,Dental_practitioners,31,10.6
+private,Overberg DM,DC3,293504,Dental_therapists,0,0
+private,Overberg DM,DC3,293504,Enrolled_nurses,6,2
+private,Overberg DM,DC3,293504,Nursing_assistants,0,0
+private,Overberg DM,DC3,293504,Occupational_therapists,11,3.7
+private,Overberg DM,DC3,293504,Pharmacist_assistant,21,7.2
+private,Overberg DM,DC3,293504,Pharmacists,37,12.6
+private,Overberg DM,DC3,293504,Physiotherapists,34,11.6
+private,Overberg DM,DC3,293504,Professional_nurses,81,27.6
+private,Overberg DM,DC3,293504,Radiographers,1,0.3
+private,G Sibande DM,DC30,1196425,Psychologists,36,3
+private,G Sibande DM,DC30,1196425,Medical_specialists,63,5.3
+private,G Sibande DM,DC30,1196425,Medical_practitioners,190,15.9
+private,G Sibande DM,DC30,1196425,Clinical_associates,0,0
+private,G Sibande DM,DC30,1196425,Dental_practitioners,61,5.1
+private,G Sibande DM,DC30,1196425,Dental_therapists,7,0.6
+private,G Sibande DM,DC30,1196425,Enrolled_nurses,4,0.3
+private,G Sibande DM,DC30,1196425,Nursing_assistants,1,0.1
+private,G Sibande DM,DC30,1196425,Occupational_therapists,31,2.6
+private,G Sibande DM,DC30,1196425,Pharmacist_assistant,30,2.5
+private,G Sibande DM,DC30,1196425,Pharmacists,73,6.1
+private,G Sibande DM,DC30,1196425,Physiotherapists,45,3.8
+private,G Sibande DM,DC30,1196425,Professional_nurses,130,10.9
+private,G Sibande DM,DC30,1196425,Radiographers,11,0.9
+private,Nkangala DM,DC31,1531445,Psychologists,31,2
+private,Nkangala DM,DC31,1531445,Medical_specialists,103,6.7
+private,Nkangala DM,DC31,1531445,Medical_practitioners,226,14.8
+private,Nkangala DM,DC31,1531445,Clinical_associates,0,0
+private,Nkangala DM,DC31,1531445,Dental_practitioners,62,4
+private,Nkangala DM,DC31,1531445,Dental_therapists,8,0.5
+private,Nkangala DM,DC31,1531445,Enrolled_nurses,6,0.4
+private,Nkangala DM,DC31,1531445,Nursing_assistants,1,0.1
+private,Nkangala DM,DC31,1531445,Occupational_therapists,25,1.6
+private,Nkangala DM,DC31,1531445,Pharmacist_assistant,34,2.2
+private,Nkangala DM,DC31,1531445,Pharmacists,84,5.5
+private,Nkangala DM,DC31,1531445,Physiotherapists,45,2.9
+private,Nkangala DM,DC31,1531445,Professional_nurses,208,13.6
+private,Nkangala DM,DC31,1531445,Radiographers,22,1.4
+private,Ehlanzeni DM,DC32,1734492,Psychologists,59,3.4
+private,Ehlanzeni DM,DC32,1734492,Medical_specialists,125,7.2
+private,Ehlanzeni DM,DC32,1734492,Medical_practitioners,251,14.5
+private,Ehlanzeni DM,DC32,1734492,Clinical_associates,0,0
+private,Ehlanzeni DM,DC32,1734492,Dental_practitioners,66,3.8
+private,Ehlanzeni DM,DC32,1734492,Dental_therapists,13,0.7
+private,Ehlanzeni DM,DC32,1734492,Enrolled_nurses,5,0.3
+private,Ehlanzeni DM,DC32,1734492,Nursing_assistants,1,0.1
+private,Ehlanzeni DM,DC32,1734492,Occupational_therapists,62,3.6
+private,Ehlanzeni DM,DC32,1734492,Pharmacist_assistant,36,2.1
+private,Ehlanzeni DM,DC32,1734492,Pharmacists,111,6.4
+private,Ehlanzeni DM,DC32,1734492,Physiotherapists,86,5
+private,Ehlanzeni DM,DC32,1734492,Professional_nurses,254,14.6
+private,Ehlanzeni DM,DC32,1734492,Radiographers,16,0.9
+private,Mopani DM,DC33,1225473,Psychologists,12,1
+private,Mopani DM,DC33,1225473,Medical_specialists,60,4.9
+private,Mopani DM,DC33,1225473,Medical_practitioners,99,8.1
+private,Mopani DM,DC33,1225473,Clinical_associates,1,0.1
+private,Mopani DM,DC33,1225473,Dental_practitioners,44,3.6
+private,Mopani DM,DC33,1225473,Dental_therapists,9,0.7
+private,Mopani DM,DC33,1225473,Enrolled_nurses,1,0.1
+private,Mopani DM,DC33,1225473,Nursing_assistants,0,0
+private,Mopani DM,DC33,1225473,Occupational_therapists,29,2.4
+private,Mopani DM,DC33,1225473,Pharmacist_assistant,16,1.3
+private,Mopani DM,DC33,1225473,Pharmacists,60,4.9
+private,Mopani DM,DC33,1225473,Physiotherapists,44,3.6
+private,Mopani DM,DC33,1225473,Professional_nurses,91,7.4
+private,Mopani DM,DC33,1225473,Radiographers,13,1.1
+private,Vhembe DM,DC34,1457007,Psychologists,12,0.8
+private,Vhembe DM,DC34,1457007,Medical_specialists,50,3.4
+private,Vhembe DM,DC34,1457007,Medical_practitioners,131,9
+private,Vhembe DM,DC34,1457007,Clinical_associates,1,0.1
+private,Vhembe DM,DC34,1457007,Dental_practitioners,28,1.9
+private,Vhembe DM,DC34,1457007,Dental_therapists,20,1.4
+private,Vhembe DM,DC34,1457007,Enrolled_nurses,0,0
+private,Vhembe DM,DC34,1457007,Nursing_assistants,0,0
+private,Vhembe DM,DC34,1457007,Occupational_therapists,17,1.2
+private,Vhembe DM,DC34,1457007,Pharmacist_assistant,11,0.8
+private,Vhembe DM,DC34,1457007,Pharmacists,49,3.4
+private,Vhembe DM,DC34,1457007,Physiotherapists,34,2.3
+private,Vhembe DM,DC34,1457007,Professional_nurses,106,7.3
+private,Vhembe DM,DC34,1457007,Radiographers,10,0.7
+private,Capricorn DM,DC35,1338763,Psychologists,55,4.1
+private,Capricorn DM,DC35,1338763,Medical_specialists,170,12.7
+private,Capricorn DM,DC35,1338763,Medical_practitioners,257,19.2
+private,Capricorn DM,DC35,1338763,Clinical_associates,1,0.1
+private,Capricorn DM,DC35,1338763,Dental_practitioners,72,5.4
+private,Capricorn DM,DC35,1338763,Dental_therapists,14,1
+private,Capricorn DM,DC35,1338763,Enrolled_nurses,0,0
+private,Capricorn DM,DC35,1338763,Nursing_assistants,0,0
+private,Capricorn DM,DC35,1338763,Occupational_therapists,57,4.3
+private,Capricorn DM,DC35,1338763,Pharmacist_assistant,37,2.8
+private,Capricorn DM,DC35,1338763,Pharmacists,63,4.7
+private,Capricorn DM,DC35,1338763,Physiotherapists,81,6.1
+private,Capricorn DM,DC35,1338763,Professional_nurses,162,12.1
+private,Capricorn DM,DC35,1338763,Radiographers,11,0.8
+private,Waterberg DM,DC36,715272,Psychologists,22,3.1
+private,Waterberg DM,DC36,715272,Medical_specialists,44,6.2
+private,Waterberg DM,DC36,715272,Medical_practitioners,128,17.9
+private,Waterberg DM,DC36,715272,Clinical_associates,1,0.1
+private,Waterberg DM,DC36,715272,Dental_practitioners,41,5.7
+private,Waterberg DM,DC36,715272,Dental_therapists,5,0.7
+private,Waterberg DM,DC36,715272,Enrolled_nurses,1,0.1
+private,Waterberg DM,DC36,715272,Nursing_assistants,0,0
+private,Waterberg DM,DC36,715272,Occupational_therapists,23,3.2
+private,Waterberg DM,DC36,715272,Pharmacist_assistant,21,2.9
+private,Waterberg DM,DC36,715272,Pharmacists,48,6.7
+private,Waterberg DM,DC36,715272,Physiotherapists,41,5.7
+private,Waterberg DM,DC36,715272,Professional_nurses,87,12.2
+private,Waterberg DM,DC36,715272,Radiographers,8,1.1
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Psychologists,50,2.9
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Medical_specialists,131,7.6
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Medical_practitioners,267,15.5
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Clinical_associates,0,0
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Dental_practitioners,79,4.6
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Dental_therapists,17,1
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Enrolled_nurses,1,0.1
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Nursing_assistants,1,0.1
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Occupational_therapists,25,1.5
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Pharmacist_assistant,56,3.3
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Pharmacists,115,6.7
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Physiotherapists,56,3.3
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Professional_nurses,249,14.5
+private,Bojanala Platinum_x000D_DM,DC37,1720519,Radiographers,10,0.6
+private,NM Molema DM,DC38,957449,Psychologists,23,2.4
+private,NM Molema DM,DC38,957449,Medical_specialists,44,4.6
+private,NM Molema DM,DC38,957449,Medical_practitioners,107,11.2
+private,NM Molema DM,DC38,957449,Clinical_associates,0,0
+private,NM Molema DM,DC38,957449,Dental_practitioners,20,2.1
+private,NM Molema DM,DC38,957449,Dental_therapists,9,0.9
+private,NM Molema DM,DC38,957449,Enrolled_nurses,1,0.1
+private,NM Molema DM,DC38,957449,Nursing_assistants,0,0
+private,NM Molema DM,DC38,957449,Occupational_therapists,10,1
+private,NM Molema DM,DC38,957449,Pharmacist_assistant,26,2.7
+private,NM Molema DM,DC38,957449,Pharmacists,37,3.9
+private,NM Molema DM,DC38,957449,Physiotherapists,22,2.3
+private,NM Molema DM,DC38,957449,Professional_nurses,75,7.8
+private,NM Molema DM,DC38,957449,Radiographers,5,0.5
+private,RS Mompati DM,DC39,479326,Psychologists,2,0.4
+private,RS Mompati DM,DC39,479326,Medical_specialists,7,1.5
+private,RS Mompati DM,DC39,479326,Medical_practitioners,37,7.7
+private,RS Mompati DM,DC39,479326,Clinical_associates,0,0
+private,RS Mompati DM,DC39,479326,Dental_practitioners,5,1
+private,RS Mompati DM,DC39,479326,Dental_therapists,1,0.2
+private,RS Mompati DM,DC39,479326,Enrolled_nurses,0,0
+private,RS Mompati DM,DC39,479326,Nursing_assistants,0,0
+private,RS Mompati DM,DC39,479326,Occupational_therapists,5,1
+private,RS Mompati DM,DC39,479326,Pharmacist_assistant,5,1
+private,RS Mompati DM,DC39,479326,Pharmacists,12,2.5
+private,RS Mompati DM,DC39,479326,Physiotherapists,6,1.3
+private,RS Mompati DM,DC39,479326,Professional_nurses,19,4
+private,RS Mompati DM,DC39,479326,Radiographers,2,0.4
+private,Garden Route DM,DC4,628623,Psychologists,76,12.1
+private,Garden Route DM,DC4,628623,Medical_specialists,144,22.9
+private,Garden Route DM,DC4,628623,Medical_practitioners,197,31.3
+private,Garden Route DM,DC4,628623,Clinical_associates,0,0
+private,Garden Route DM,DC4,628623,Dental_practitioners,80,12.7
+private,Garden Route DM,DC4,628623,Dental_therapists,0,0
+private,Garden Route DM,DC4,628623,Enrolled_nurses,3,0.5
+private,Garden Route DM,DC4,628623,Nursing_assistants,1,0.2
+private,Garden Route DM,DC4,628623,Occupational_therapists,30,4.8
+private,Garden Route DM,DC4,628623,Pharmacist_assistant,43,6.8
+private,Garden Route DM,DC4,628623,Pharmacists,112,17.8
+private,Garden Route DM,DC4,628623,Physiotherapists,91,14.5
+private,Garden Route DM,DC4,628623,Professional_nurses,224,35.6
+private,Garden Route DM,DC4,628623,Radiographers,5,0.8
+private,Dr K Kaunda DM,DC40,761652,Psychologists,79,10.4
+private,Dr K Kaunda DM,DC40,761652,Medical_specialists,91,11.9
+private,Dr K Kaunda DM,DC40,761652,Medical_practitioners,181,23.8
+private,Dr K Kaunda DM,DC40,761652,Clinical_associates,0,0
+private,Dr K Kaunda DM,DC40,761652,Dental_practitioners,46,6
+private,Dr K Kaunda DM,DC40,761652,Dental_therapists,2,0.3
+private,Dr K Kaunda DM,DC40,761652,Enrolled_nurses,5,0.7
+private,Dr K Kaunda DM,DC40,761652,Nursing_assistants,5,0.7
+private,Dr K Kaunda DM,DC40,761652,Occupational_therapists,30,3.9
+private,Dr K Kaunda DM,DC40,761652,Pharmacist_assistant,32,4.2
+private,Dr K Kaunda DM,DC40,761652,Pharmacists,92,12.1
+private,Dr K Kaunda DM,DC40,761652,Physiotherapists,42,5.5
+private,Dr K Kaunda DM,DC40,761652,Professional_nurses,212,27.8
+private,Dr K Kaunda DM,DC40,761652,Radiographers,10,1.3
+private,Sedibeng DM,DC42,984810,Psychologists,83,8.4
+private,Sedibeng DM,DC42,984810,Medical_specialists,124,12.6
+private,Sedibeng DM,DC42,984810,Medical_practitioners,245,24.9
+private,Sedibeng DM,DC42,984810,Clinical_associates,0,0
+private,Sedibeng DM,DC42,984810,Dental_practitioners,61,6.2
+private,Sedibeng DM,DC42,984810,Dental_therapists,9,0.9
+private,Sedibeng DM,DC42,984810,Enrolled_nurses,6,0.6
+private,Sedibeng DM,DC42,984810,Nursing_assistants,0,0
+private,Sedibeng DM,DC42,984810,Occupational_therapists,29,2.9
+private,Sedibeng DM,DC42,984810,Pharmacist_assistant,38,3.9
+private,Sedibeng DM,DC42,984810,Pharmacists,98,10
+private,Sedibeng DM,DC42,984810,Physiotherapists,41,4.2
+private,Sedibeng DM,DC42,984810,Professional_nurses,276,28
+private,Sedibeng DM,DC42,984810,Radiographers,22,2.2
+private,Harry Gwala DM,DC43,513317,Psychologists,9,1.8
+private,Harry Gwala DM,DC43,513317,Medical_specialists,8,1.6
+private,Harry Gwala DM,DC43,513317,Medical_practitioners,27,5.3
+private,Harry Gwala DM,DC43,513317,Clinical_associates,1,0.2
+private,Harry Gwala DM,DC43,513317,Dental_practitioners,5,1
+private,Harry Gwala DM,DC43,513317,Dental_therapists,4,0.8
+private,Harry Gwala DM,DC43,513317,Enrolled_nurses,0,0
+private,Harry Gwala DM,DC43,513317,Nursing_assistants,0,0
+private,Harry Gwala DM,DC43,513317,Occupational_therapists,9,1.8
+private,Harry Gwala DM,DC43,513317,Pharmacist_assistant,7,1.4
+private,Harry Gwala DM,DC43,513317,Pharmacists,14,2.7
+private,Harry Gwala DM,DC43,513317,Physiotherapists,11,2.1
+private,Harry Gwala DM,DC43,513317,Professional_nurses,17,3.3
+private,Harry Gwala DM,DC43,513317,Radiographers,2,0.4
+private,A Nzo DM,DC44,869157,Psychologists,1,0.1
+private,A Nzo DM,DC44,869157,Medical_specialists,7,0.8
+private,A Nzo DM,DC44,869157,Medical_practitioners,35,4
+private,A Nzo DM,DC44,869157,Clinical_associates,0,0
+private,A Nzo DM,DC44,869157,Dental_practitioners,4,0.5
+private,A Nzo DM,DC44,869157,Dental_therapists,4,0.5
+private,A Nzo DM,DC44,869157,Enrolled_nurses,3,0.3
+private,A Nzo DM,DC44,869157,Nursing_assistants,1,0.1
+private,A Nzo DM,DC44,869157,Occupational_therapists,1,0.1
+private,A Nzo DM,DC44,869157,Pharmacist_assistant,1,0.1
+private,A Nzo DM,DC44,869157,Pharmacists,16,1.8
+private,A Nzo DM,DC44,869157,Physiotherapists,3,0.3
+private,A Nzo DM,DC44,869157,Professional_nurses,25,2.9
+private,A Nzo DM,DC44,869157,Radiographers,0,0
+private,JT Gaetsewe DM,DC45,243804,Psychologists,8,3.3
+private,JT Gaetsewe DM,DC45,243804,Medical_specialists,7,2.9
+private,JT Gaetsewe DM,DC45,243804,Medical_practitioners,33,13.5
+private,JT Gaetsewe DM,DC45,243804,Clinical_associates,0,0
+private,JT Gaetsewe DM,DC45,243804,Dental_practitioners,10,4.1
+private,JT Gaetsewe DM,DC45,243804,Dental_therapists,2,0.8
+private,JT Gaetsewe DM,DC45,243804,Enrolled_nurses,0,0
+private,JT Gaetsewe DM,DC45,243804,Nursing_assistants,0,0
+private,JT Gaetsewe DM,DC45,243804,Occupational_therapists,5,2.1
+private,JT Gaetsewe DM,DC45,243804,Pharmacist_assistant,4,1.6
+private,JT Gaetsewe DM,DC45,243804,Pharmacists,18,7.4
+private,JT Gaetsewe DM,DC45,243804,Physiotherapists,9,3.7
+private,JT Gaetsewe DM,DC45,243804,Professional_nurses,34,13.9
+private,JT Gaetsewe DM,DC45,243804,Radiographers,1,0.4
+private,Sekhukhune DM,DC47,1233967,Psychologists,4,0.3
+private,Sekhukhune DM,DC47,1233967,Medical_specialists,41,3.3
+private,Sekhukhune DM,DC47,1233967,Medical_practitioners,91,7.4
+private,Sekhukhune DM,DC47,1233967,Clinical_associates,0,0
+private,Sekhukhune DM,DC47,1233967,Dental_practitioners,26,2.1
+private,Sekhukhune DM,DC47,1233967,Dental_therapists,6,0.5
+private,Sekhukhune DM,DC47,1233967,Enrolled_nurses,1,0.1
+private,Sekhukhune DM,DC47,1233967,Nursing_assistants,0,0
+private,Sekhukhune DM,DC47,1233967,Occupational_therapists,16,1.3
+private,Sekhukhune DM,DC47,1233967,Pharmacist_assistant,13,1.1
+private,Sekhukhune DM,DC47,1233967,Pharmacists,45,3.6
+private,Sekhukhune DM,DC47,1233967,Physiotherapists,16,1.3
+private,Sekhukhune DM,DC47,1233967,Professional_nurses,51,4.1
+private,Sekhukhune DM,DC47,1233967,Radiographers,8,0.6
+private,West Rand DM,DC48,881918,Psychologists,43,4.9
+private,West Rand DM,DC48,881918,Medical_specialists,130,14.7
+private,West Rand DM,DC48,881918,Medical_practitioners,201,22.8
+private,West Rand DM,DC48,881918,Clinical_associates,0,0
+private,West Rand DM,DC48,881918,Dental_practitioners,50,5.7
+private,West Rand DM,DC48,881918,Dental_therapists,2,0.2
+private,West Rand DM,DC48,881918,Enrolled_nurses,5,0.6
+private,West Rand DM,DC48,881918,Nursing_assistants,0,0
+private,West Rand DM,DC48,881918,Occupational_therapists,33,3.7
+private,West Rand DM,DC48,881918,Pharmacist_assistant,37,4.2
+private,West Rand DM,DC48,881918,Pharmacists,80,9.1
+private,West Rand DM,DC48,881918,Physiotherapists,55,6.2
+private,West Rand DM,DC48,881918,Professional_nurses,321,36.4
+private,West Rand DM,DC48,881918,Radiographers,14,1.6
+private,Central Karoo DM,DC5,76821,Psychologists,0,0
+private,Central Karoo DM,DC5,76821,Medical_specialists,1,1.3
+private,Central Karoo DM,DC5,76821,Medical_practitioners,7,9.1
+private,Central Karoo DM,DC5,76821,Clinical_associates,0,0
+private,Central Karoo DM,DC5,76821,Dental_practitioners,0,0
+private,Central Karoo DM,DC5,76821,Dental_therapists,0,0
+private,Central Karoo DM,DC5,76821,Enrolled_nurses,0,0
+private,Central Karoo DM,DC5,76821,Nursing_assistants,0,0
+private,Central Karoo DM,DC5,76821,Occupational_therapists,1,1.3
+private,Central Karoo DM,DC5,76821,Pharmacist_assistant,3,3.9
+private,Central Karoo DM,DC5,76821,Pharmacists,2,2.6
+private,Central Karoo DM,DC5,76821,Physiotherapists,3,3.9
+private,Central Karoo DM,DC5,76821,Professional_nurses,2,2.6
+private,Central Karoo DM,DC5,76821,Radiographers,0,0
+private,Namakwa DM,DC6,113554,Psychologists,1,0.9
+private,Namakwa DM,DC6,113554,Medical_specialists,3,2.6
+private,Namakwa DM,DC6,113554,Medical_practitioners,14,12.3
+private,Namakwa DM,DC6,113554,Clinical_associates,0,0
+private,Namakwa DM,DC6,113554,Dental_practitioners,4,3.5
+private,Namakwa DM,DC6,113554,Dental_therapists,0,0
+private,Namakwa DM,DC6,113554,Enrolled_nurses,0,0
+private,Namakwa DM,DC6,113554,Nursing_assistants,1,0.9
+private,Namakwa DM,DC6,113554,Occupational_therapists,1,0.9
+private,Namakwa DM,DC6,113554,Pharmacist_assistant,0,0
+private,Namakwa DM,DC6,113554,Pharmacists,6,5.3
+private,Namakwa DM,DC6,113554,Physiotherapists,3,2.6
+private,Namakwa DM,DC6,113554,Professional_nurses,14,12.3
+private,Namakwa DM,DC6,113554,Radiographers,1,0.9
+private,Pixley Ka Seme DM,DC7,209791,Psychologists,2,1
+private,Pixley Ka Seme DM,DC7,209791,Medical_specialists,5,2.4
+private,Pixley Ka Seme DM,DC7,209791,Medical_practitioners,18,8.6
+private,Pixley Ka Seme DM,DC7,209791,Clinical_associates,0,0
+private,Pixley Ka Seme DM,DC7,209791,Dental_practitioners,2,1
+private,Pixley Ka Seme DM,DC7,209791,Dental_therapists,0,0
+private,Pixley Ka Seme DM,DC7,209791,Enrolled_nurses,0,0
+private,Pixley Ka Seme DM,DC7,209791,Nursing_assistants,0,0
+private,Pixley Ka Seme DM,DC7,209791,Occupational_therapists,4,1.9
+private,Pixley Ka Seme DM,DC7,209791,Pharmacist_assistant,2,1
+private,Pixley Ka Seme DM,DC7,209791,Pharmacists,10,4.8
+private,Pixley Ka Seme DM,DC7,209791,Physiotherapists,8,3.8
+private,Pixley Ka Seme DM,DC7,209791,Professional_nurses,14,6.7
+private,Pixley Ka Seme DM,DC7,209791,Radiographers,0,0
+private,ZF Mgcawu DM,DC8,263401,Psychologists,7,2.7
+private,ZF Mgcawu DM,DC8,263401,Medical_specialists,17,6.5
+private,ZF Mgcawu DM,DC8,263401,Medical_practitioners,36,13.7
+private,ZF Mgcawu DM,DC8,263401,Clinical_associates,0,0
+private,ZF Mgcawu DM,DC8,263401,Dental_practitioners,10,3.8
+private,ZF Mgcawu DM,DC8,263401,Dental_therapists,1,0.4
+private,ZF Mgcawu DM,DC8,263401,Enrolled_nurses,1,0.4
+private,ZF Mgcawu DM,DC8,263401,Nursing_assistants,0,0
+private,ZF Mgcawu DM,DC8,263401,Occupational_therapists,7,2.7
+private,ZF Mgcawu DM,DC8,263401,Pharmacist_assistant,5,1.9
+private,ZF Mgcawu DM,DC8,263401,Pharmacists,17,6.5
+private,ZF Mgcawu DM,DC8,263401,Physiotherapists,7,2.7
+private,ZF Mgcawu DM,DC8,263401,Professional_nurses,37,14
+private,ZF Mgcawu DM,DC8,263401,Radiographers,1,0.4
+private,Frances Baard DM,DC9,381186,Psychologists,25,6.6
+private,Frances Baard DM,DC9,381186,Medical_specialists,70,18.4
+private,Frances Baard DM,DC9,381186,Medical_practitioners,106,27.8
+private,Frances Baard DM,DC9,381186,Clinical_associates,0,0
+private,Frances Baard DM,DC9,381186,Dental_practitioners,29,7.6
+private,Frances Baard DM,DC9,381186,Dental_therapists,6,1.6
+private,Frances Baard DM,DC9,381186,Enrolled_nurses,2,0.5
+private,Frances Baard DM,DC9,381186,Nursing_assistants,0,0
+private,Frances Baard DM,DC9,381186,Occupational_therapists,13,3.4
+private,Frances Baard DM,DC9,381186,Pharmacist_assistant,25,6.6
+private,Frances Baard DM,DC9,381186,Pharmacists,36,9.4
+private,Frances Baard DM,DC9,381186,Physiotherapists,23,6
+private,Frances Baard DM,DC9,381186,Professional_nurses,88,23.1
+private,Frances Baard DM,DC9,381186,Radiographers,5,1.3
+private,City of Ekurhuleni MM,EKU,3561977,Psychologists,279,7.8
+private,City of Ekurhuleni MM,EKU,3561977,Medical_specialists,575,16.1
+private,City of Ekurhuleni MM,EKU,3561977,Medical_practitioners,852,23.9
+private,City of Ekurhuleni MM,EKU,3561977,Clinical_associates,3,0.1
+private,City of Ekurhuleni MM,EKU,3561977,Dental_practitioners,261,7.3
+private,City of Ekurhuleni MM,EKU,3561977,Dental_therapists,26,0.7
+private,City of Ekurhuleni MM,EKU,3561977,Enrolled_nurses,21,0.6
+private,City of Ekurhuleni MM,EKU,3561977,Nursing_assistants,3,0.1
+private,City of Ekurhuleni MM,EKU,3561977,Occupational_therapists,171,4.8
+private,City of Ekurhuleni MM,EKU,3561977,Pharmacist_assistant,167,4.7
+private,City of Ekurhuleni MM,EKU,3561977,Pharmacists,343,9.6
+private,City of Ekurhuleni MM,EKU,3561977,Physiotherapists,277,7.8
+private,City of Ekurhuleni MM,EKU,3561977,Professional_nurses,1016,28.5
+private,City of Ekurhuleni MM,EKU,3561977,Radiographers,53,1.5
+private,eThekwini MM,ETH,3767465,Psychologists,386,10.2
+private,eThekwini MM,ETH,3767465,Medical_specialists,1003,26.6
+private,eThekwini MM,ETH,3767465,Medical_practitioners,1035,27.5
+private,eThekwini MM,ETH,3767465,Clinical_associates,0,0
+private,eThekwini MM,ETH,3767465,Dental_practitioners,336,8.9
+private,eThekwini MM,ETH,3767465,Dental_therapists,103,2.7
+private,eThekwini MM,ETH,3767465,Enrolled_nurses,23,0.6
+private,eThekwini MM,ETH,3767465,Nursing_assistants,1,0
+private,eThekwini MM,ETH,3767465,Occupational_therapists,208,5.5
+private,eThekwini MM,ETH,3767465,Pharmacist_assistant,189,5
+private,eThekwini MM,ETH,3767465,Pharmacists,417,11.1
+private,eThekwini MM,ETH,3767465,Physiotherapists,360,9.6
+private,eThekwini MM,ETH,3767465,Professional_nurses,1063,28.2
+private,eThekwini MM,ETH,3767465,Radiographers,57,1.5
+private,Johannesburg MM,JHB,5201673,Psychologists,1371,26.4
+private,Johannesburg MM,JHB,5201673,Medical_specialists,1881,36.2
+private,Johannesburg MM,JHB,5201673,Medical_practitioners,1796,34.5
+private,Johannesburg MM,JHB,5201673,Clinical_associates,3,0.1
+private,Johannesburg MM,JHB,5201673,Dental_practitioners,591,11.4
+private,Johannesburg MM,JHB,5201673,Dental_therapists,53,1
+private,Johannesburg MM,JHB,5201673,Enrolled_nurses,49,0.9
+private,Johannesburg MM,JHB,5201673,Nursing_assistants,10,0.2
+private,Johannesburg MM,JHB,5201673,Occupational_therapists,568,10.9
+private,Johannesburg MM,JHB,5201673,Pharmacist_assistant,255,4.9
+private,Johannesburg MM,JHB,5201673,Pharmacists,734,14.1
+private,Johannesburg MM,JHB,5201673,Physiotherapists,781,15
+private,Johannesburg MM,JHB,5201673,Professional_nurses,1887,36.3
+private,Johannesburg MM,JHB,5201673,Radiographers,101,1.9
+private,MAN: Mangaung MM,MAN,780755,Psychologists,140,17.9
+private,MAN: Mangaung MM,MAN,780755,Medical_specialists,245,31.4
+private,MAN: Mangaung MM,MAN,780755,Medical_practitioners,236,30.2
+private,MAN: Mangaung MM,MAN,780755,Clinical_associates,0,0
+private,MAN: Mangaung MM,MAN,780755,Dental_practitioners,69,8.8
+private,MAN: Mangaung MM,MAN,780755,Dental_therapists,6,0.8
+private,MAN: Mangaung MM,MAN,780755,Enrolled_nurses,14,1.8
+private,MAN: Mangaung MM,MAN,780755,Nursing_assistants,2,0.3
+private,MAN: Mangaung MM,MAN,780755,Occupational_therapists,81,10.4
+private,MAN: Mangaung MM,MAN,780755,Pharmacist_assistant,51,6.5
+private,MAN: Mangaung MM,MAN,780755,Pharmacists,104,13.3
+private,MAN: Mangaung MM,MAN,780755,Physiotherapists,130,16.7
+private,MAN: Mangaung MM,MAN,780755,Professional_nurses,333,42.7
+private,MAN: Mangaung MM,MAN,780755,Radiographers,22,2.8
+private,NMA: N Mandela Bay MM,NMA,1302906,Psychologists,179,13.7
+private,NMA: N Mandela Bay MM,NMA,1302906,Medical_specialists,245,18.8
+private,NMA: N Mandela Bay MM,NMA,1302906,Medical_practitioners,345,26.5
+private,NMA: N Mandela Bay MM,NMA,1302906,Clinical_associates,0,0
+private,NMA: N Mandela Bay MM,NMA,1302906,Dental_practitioners,80,6.1
+private,NMA: N Mandela Bay MM,NMA,1302906,Dental_therapists,2,0.2
+private,NMA: N Mandela Bay MM,NMA,1302906,Enrolled_nurses,35,2.7
+private,NMA: N Mandela Bay MM,NMA,1302906,Nursing_assistants,16,1.2
+private,NMA: N Mandela Bay MM,NMA,1302906,Occupational_therapists,59,4.5
+private,NMA: N Mandela Bay MM,NMA,1302906,Pharmacist_assistant,84,6.4
+private,NMA: N Mandela Bay MM,NMA,1302906,Pharmacists,169,13
+private,NMA: N Mandela Bay MM,NMA,1302906,Physiotherapists,98,7.5
+private,NMA: N Mandela Bay MM,NMA,1302906,Professional_nurses,514,39.5
+private,NMA: N Mandela Bay MM,NMA,1302906,Radiographers,13,1
+private,Tshwane MM,TSH,3473874,Psychologists,789,22.7
+private,Tshwane MM,TSH,3473874,Medical_specialists,1298,37.4
+private,Tshwane MM,TSH,3473874,Medical_practitioners,1513,43.6
+private,Tshwane MM,TSH,3473874,Clinical_associates,1,0
+private,Tshwane MM,TSH,3473874,Dental_practitioners,509,14.7
+private,Tshwane MM,TSH,3473874,Dental_therapists,57,1.6
+private,Tshwane MM,TSH,3473874,Enrolled_nurses,25,0.7
+private,Tshwane MM,TSH,3473874,Nursing_assistants,1,0
+private,Tshwane MM,TSH,3473874,Occupational_therapists,398,11.5
+private,Tshwane MM,TSH,3473874,Pharmacist_assistant,225,6.5
+private,Tshwane MM,TSH,3473874,Pharmacists,531,15.3
+private,Tshwane MM,TSH,3473874,Physiotherapists,579,16.7
+private,Tshwane MM,TSH,3473874,Professional_nurses,1428,41.1
+private,Tshwane MM,TSH,3473874,Radiographers,74,2.1
+public,Buffalo City MM,BUF,856897,Clinical_associates,4,0.5
+public,Buffalo City MM,BUF,856897,Dental_practitioners,23,2.7
+public,Buffalo City MM,BUF,856897,Dental_specialists,0,0
+public,Buffalo City MM,BUF,856897,Dental_therapists,6,0.7
+public,Buffalo City MM,BUF,856897,Enrolled_nurses,480,56
+public,Buffalo City MM,BUF,856897,Medical_practitioners,460,53.7
+public,Buffalo City MM,BUF,856897,Medical_specialists,59,6.9
+public,Buffalo City MM,BUF,856897,Nursing_assistants,786,91.7
+public,Buffalo City MM,BUF,856897,Occupational_therapists,17,2
+public,Buffalo City MM,BUF,856897,Pharmacists,136,15.9
+public,Buffalo City MM,BUF,856897,Physiotherapists,23,2.7
+public,Buffalo City MM,BUF,856897,Professional_nurses,1647,192.2
+public,Buffalo City MM,BUF,856897,Psychologists,6,0.7
+public,Buffalo City MM,BUF,856897,Radiographers,81,9.5
+public,Buffalo City MM,BUF,856897,Speech_therapists_and_audiologists,11,1.3
+public,Cape Town MM,CPT,4140565,Clinical_associates,0,0
+public,Cape Town MM,CPT,4140565,Dental_practitioners,87,2.1
+public,Cape Town MM,CPT,4140565,Dental_specialists,21,0.5
+public,Cape Town MM,CPT,4140565,Dental_therapists,2,0
+public,Cape Town MM,CPT,4140565,Enrolled_nurses,1781,43
+public,Cape Town MM,CPT,4140565,Medical_practitioners,1364,32.9
+public,Cape Town MM,CPT,4140565,Medical_specialists,1144,27.6
+public,Cape Town MM,CPT,4140565,Nursing_assistants,3264,78.8
+public,Cape Town MM,CPT,4140565,Occupational_therapists,114,2.8
+public,Cape Town MM,CPT,4140565,Pharmacists,557,13.5
+public,Cape Town MM,CPT,4140565,Physiotherapists,99,2.4
+public,Cape Town MM,CPT,4140565,Professional_nurses,3524,85.1
+public,Cape Town MM,CPT,4140565,Psychologists,72,1.7
+public,Cape Town MM,CPT,4140565,Radiographers,354,8.5
+public,Cape Town MM,CPT,4140565,Speech_therapists_and_audiologists,51,1.2
+public,West Coast DM,DC1,459686,Clinical_associates,0,0
+public,West Coast DM,DC1,459686,Dental_practitioners,4,0.9
+public,West Coast DM,DC1,459686,Dental_specialists,0,0
+public,West Coast DM,DC1,459686,Dental_therapists,0,0
+public,West Coast DM,DC1,459686,Enrolled_nurses,144,31.3
+public,West Coast DM,DC1,459686,Medical_practitioners,57,12.4
+public,West Coast DM,DC1,459686,Medical_specialists,6,1.3
+public,West Coast DM,DC1,459686,Nursing_assistants,147,32
+public,West Coast DM,DC1,459686,Occupational_therapists,4,0.9
+public,West Coast DM,DC1,459686,Pharmacists,44,9.6
+public,West Coast DM,DC1,459686,Physiotherapists,6,1.3
+public,West Coast DM,DC1,459686,Professional_nurses,225,48.9
+public,West Coast DM,DC1,459686,Psychologists,4,0.9
+public,West Coast DM,DC1,459686,Radiographers,13,2.8
+public,West Coast DM,DC1,459686,Speech_therapists_and_audiologists,4,0.9
+public,Sarah Baartman DM,DC10,524603,Clinical_associates,9,1.7
+public,Sarah Baartman DM,DC10,524603,Dental_practitioners,16,3
+public,Sarah Baartman DM,DC10,524603,Dental_specialists,0,0
+public,Sarah Baartman DM,DC10,524603,Dental_therapists,1,0.2
+public,Sarah Baartman DM,DC10,524603,Enrolled_nurses,196,37.4
+public,Sarah Baartman DM,DC10,524603,Medical_practitioners,89,17
+public,Sarah Baartman DM,DC10,524603,Medical_specialists,5,1
+public,Sarah Baartman DM,DC10,524603,Nursing_assistants,282,53.8
+public,Sarah Baartman DM,DC10,524603,Occupational_therapists,14,2.7
+public,Sarah Baartman DM,DC10,524603,Pharmacists,89,17
+public,Sarah Baartman DM,DC10,524603,Physiotherapists,14,2.7
+public,Sarah Baartman DM,DC10,524603,Professional_nurses,768,146.4
+public,Sarah Baartman DM,DC10,524603,Psychologists,17,3.2
+public,Sarah Baartman DM,DC10,524603,Radiographers,20,3.8
+public,Sarah Baartman DM,DC10,524603,Speech_therapists_and_audiologists,2,0.4
+public,Amathole DM,DC12,995414,Clinical_associates,18,1.8
+public,Amathole DM,DC12,995414,Dental_practitioners,20,2
+public,Amathole DM,DC12,995414,Dental_specialists,0,0
+public,Amathole DM,DC12,995414,Dental_therapists,3,0.3
+public,Amathole DM,DC12,995414,Enrolled_nurses,392,39.4
+public,Amathole DM,DC12,995414,Medical_practitioners,87,8.7
+public,Amathole DM,DC12,995414,Medical_specialists,1,0.1
+public,Amathole DM,DC12,995414,Nursing_assistants,716,71.9
+public,Amathole DM,DC12,995414,Occupational_therapists,9,0.9
+public,Amathole DM,DC12,995414,Pharmacists,64,6.4
+public,Amathole DM,DC12,995414,Physiotherapists,10,1
+public,Amathole DM,DC12,995414,Professional_nurses,1323,132.9
+public,Amathole DM,DC12,995414,Psychologists,1,0.1
+public,Amathole DM,DC12,995414,Radiographers,34,3.4
+public,Amathole DM,DC12,995414,Speech_therapists_and_audiologists,2,0.2
+public,C Hani DM,DC13,818150,Clinical_associates,18,2.2
+public,C Hani DM,DC13,818150,Dental_practitioners,15,1.8
+public,C Hani DM,DC13,818150,Dental_specialists,0,0
+public,C Hani DM,DC13,818150,Dental_therapists,0,0
+public,C Hani DM,DC13,818150,Enrolled_nurses,433,52.9
+public,C Hani DM,DC13,818150,Medical_practitioners,139,17
+public,C Hani DM,DC13,818150,Medical_specialists,1,0.1
+public,C Hani DM,DC13,818150,Nursing_assistants,707,86.4
+public,C Hani DM,DC13,818150,Occupational_therapists,9,1.1
+public,C Hani DM,DC13,818150,Pharmacists,60,7.3
+public,C Hani DM,DC13,818150,Physiotherapists,15,1.8
+public,C Hani DM,DC13,818150,Professional_nurses,1470,179.7
+public,C Hani DM,DC13,818150,Psychologists,3,0.4
+public,C Hani DM,DC13,818150,Radiographers,32,3.9
+public,C Hani DM,DC13,818150,Speech_therapists_and_audiologists,3,0.4
+public,Joe Gqabi DM,DC14,373266,Clinical_associates,10,2.7
+public,Joe Gqabi DM,DC14,373266,Dental_practitioners,7,1.9
+public,Joe Gqabi DM,DC14,373266,Dental_specialists,0,0
+public,Joe Gqabi DM,DC14,373266,Dental_therapists,0,0
+public,Joe Gqabi DM,DC14,373266,Enrolled_nurses,168,45
+public,Joe Gqabi DM,DC14,373266,Medical_practitioners,59,15.8
+public,Joe Gqabi DM,DC14,373266,Medical_specialists,0,0
+public,Joe Gqabi DM,DC14,373266,Nursing_assistants,292,78.2
+public,Joe Gqabi DM,DC14,373266,Occupational_therapists,4,1.1
+public,Joe Gqabi DM,DC14,373266,Pharmacists,23,6.2
+public,Joe Gqabi DM,DC14,373266,Physiotherapists,2,0.5
+public,Joe Gqabi DM,DC14,373266,Professional_nurses,532,142.5
+public,Joe Gqabi DM,DC14,373266,Psychologists,0,0
+public,Joe Gqabi DM,DC14,373266,Radiographers,16,4.3
+public,Joe Gqabi DM,DC14,373266,Speech_therapists_and_audiologists,0,0
+public,OR Tambo DM,DC15,1495055,Clinical_associates,13,0.9
+public,OR Tambo DM,DC15,1495055,Dental_practitioners,17,1.1
+public,OR Tambo DM,DC15,1495055,Dental_specialists,0,0
+public,OR Tambo DM,DC15,1495055,Dental_therapists,4,0.3
+public,OR Tambo DM,DC15,1495055,Enrolled_nurses,916,61.3
+public,OR Tambo DM,DC15,1495055,Medical_practitioners,462,30.9
+public,OR Tambo DM,DC15,1495055,Medical_specialists,52,3.5
+public,OR Tambo DM,DC15,1495055,Nursing_assistants,1346,90
+public,OR Tambo DM,DC15,1495055,Occupational_therapists,16,1.1
+public,OR Tambo DM,DC15,1495055,Pharmacists,206,13.8
+public,OR Tambo DM,DC15,1495055,Physiotherapists,19,1.3
+public,OR Tambo DM,DC15,1495055,Professional_nurses,2112,141.3
+public,OR Tambo DM,DC15,1495055,Psychologists,3,0.2
+public,OR Tambo DM,DC15,1495055,Radiographers,57,3.8
+public,OR Tambo DM,DC15,1495055,Speech_therapists_and_audiologists,10,0.7
+public,Xhariep DM,DC16,154811,Clinical_associates,2,1.3
+public,Xhariep DM,DC16,154811,Dental_practitioners,3,1.9
+public,Xhariep DM,DC16,154811,Dental_specialists,0,0
+public,Xhariep DM,DC16,154811,Dental_therapists,0,0
+public,Xhariep DM,DC16,154811,Enrolled_nurses,52,33.6
+public,Xhariep DM,DC16,154811,Medical_practitioners,22,14.2
+public,Xhariep DM,DC16,154811,Medical_specialists,0,0
+public,Xhariep DM,DC16,154811,Nursing_assistants,118,76.2
+public,Xhariep DM,DC16,154811,Occupational_therapists,5,3.2
+public,Xhariep DM,DC16,154811,Pharmacists,23,14.9
+public,Xhariep DM,DC16,154811,Physiotherapists,1,0.6
+public,Xhariep DM,DC16,154811,Professional_nurses,90,58.1
+public,Xhariep DM,DC16,154811,Psychologists,0,0
+public,Xhariep DM,DC16,154811,Radiographers,5,3.2
+public,Xhariep DM,DC16,154811,Speech_therapists_and_audiologists,1,0.6
+public,Lejweleputswa DM,DC18,673024,Clinical_associates,4,0.6
+public,Lejweleputswa DM,DC18,673024,Dental_practitioners,8,1.2
+public,Lejweleputswa DM,DC18,673024,Dental_specialists,0,0
+public,Lejweleputswa DM,DC18,673024,Dental_therapists,0,0
+public,Lejweleputswa DM,DC18,673024,Enrolled_nurses,243,36.1
+public,Lejweleputswa DM,DC18,673024,Medical_practitioners,99,14.7
+public,Lejweleputswa DM,DC18,673024,Medical_specialists,7,1
+public,Lejweleputswa DM,DC18,673024,Nursing_assistants,184,27.3
+public,Lejweleputswa DM,DC18,673024,Occupational_therapists,6,0.9
+public,Lejweleputswa DM,DC18,673024,Pharmacists,48,7.1
+public,Lejweleputswa DM,DC18,673024,Physiotherapists,4,0.6
+public,Lejweleputswa DM,DC18,673024,Professional_nurses,405,60.2
+public,Lejweleputswa DM,DC18,673024,Psychologists,0,0
+public,Lejweleputswa DM,DC18,673024,Radiographers,15,2.2
+public,Lejweleputswa DM,DC18,673024,Speech_therapists_and_audiologists,1,0.1
+public,T Mofutsanyana DM,DC19,792608,Clinical_associates,1,0.1
+public,T Mofutsanyana DM,DC19,792608,Dental_practitioners,12,1.5
+public,T Mofutsanyana DM,DC19,792608,Dental_specialists,0,0
+public,T Mofutsanyana DM,DC19,792608,Dental_therapists,0,0
+public,T Mofutsanyana DM,DC19,792608,Enrolled_nurses,165,20.8
+public,T Mofutsanyana DM,DC19,792608,Medical_practitioners,139,17.5
+public,T Mofutsanyana DM,DC19,792608,Medical_specialists,17,2.1
+public,T Mofutsanyana DM,DC19,792608,Nursing_assistants,384,48.4
+public,T Mofutsanyana DM,DC19,792608,Occupational_therapists,6,0.8
+public,T Mofutsanyana DM,DC19,792608,Pharmacists,66,8.3
+public,T Mofutsanyana DM,DC19,792608,Physiotherapists,11,1.4
+public,T Mofutsanyana DM,DC19,792608,Professional_nurses,411,51.9
+public,T Mofutsanyana DM,DC19,792608,Psychologists,2,0.3
+public,T Mofutsanyana DM,DC19,792608,Radiographers,27,3.4
+public,T Mofutsanyana DM,DC19,792608,Speech_therapists_and_audiologists,1,0.1
+public,Cape Winelands DM,DC2,916384,Clinical_associates,0,0
+public,Cape Winelands DM,DC2,916384,Dental_practitioners,52,5.7
+public,Cape Winelands DM,DC2,916384,Dental_specialists,13,1.4
+public,Cape Winelands DM,DC2,916384,Dental_therapists,0,0
+public,Cape Winelands DM,DC2,916384,Enrolled_nurses,365,39.8
+public,Cape Winelands DM,DC2,916384,Medical_practitioners,202,22
+public,Cape Winelands DM,DC2,916384,Medical_specialists,86,9.4
+public,Cape Winelands DM,DC2,916384,Nursing_assistants,376,41
+public,Cape Winelands DM,DC2,916384,Occupational_therapists,11,1.2
+public,Cape Winelands DM,DC2,916384,Pharmacists,100,10.9
+public,Cape Winelands DM,DC2,916384,Physiotherapists,13,1.4
+public,Cape Winelands DM,DC2,916384,Professional_nurses,588,64.2
+public,Cape Winelands DM,DC2,916384,Psychologists,5,0.5
+public,Cape Winelands DM,DC2,916384,Radiographers,39,4.3
+public,Cape Winelands DM,DC2,916384,Speech_therapists_and_audiologists,8,0.9
+public,Fezile Dabi DM,DC20,504761,Clinical_associates,8,1.6
+public,Fezile Dabi DM,DC20,504761,Dental_practitioners,5,1
+public,Fezile Dabi DM,DC20,504761,Dental_specialists,0,0
+public,Fezile Dabi DM,DC20,504761,Dental_therapists,0,0
+public,Fezile Dabi DM,DC20,504761,Enrolled_nurses,146,28.9
+public,Fezile Dabi DM,DC20,504761,Medical_practitioners,94,18.6
+public,Fezile Dabi DM,DC20,504761,Medical_specialists,4,0.8
+public,Fezile Dabi DM,DC20,504761,Nursing_assistants,266,52.7
+public,Fezile Dabi DM,DC20,504761,Occupational_therapists,4,0.8
+public,Fezile Dabi DM,DC20,504761,Pharmacists,48,9.5
+public,Fezile Dabi DM,DC20,504761,Physiotherapists,4,0.8
+public,Fezile Dabi DM,DC20,504761,Professional_nurses,260,51.5
+public,Fezile Dabi DM,DC20,504761,Psychologists,1,0.2
+public,Fezile Dabi DM,DC20,504761,Radiographers,15,3
+public,Fezile Dabi DM,DC20,504761,Speech_therapists_and_audiologists,1,0.2
+public,Ugu DM,DC21,787096,Clinical_associates,14,1.8
+public,Ugu DM,DC21,787096,Dental_practitioners,11,1.4
+public,Ugu DM,DC21,787096,Dental_specialists,0,0
+public,Ugu DM,DC21,787096,Dental_therapists,13,1.7
+public,Ugu DM,DC21,787096,Enrolled_nurses,578,73.4
+public,Ugu DM,DC21,787096,Medical_practitioners,206,26.2
+public,Ugu DM,DC21,787096,Medical_specialists,26,3.3
+public,Ugu DM,DC21,787096,Nursing_assistants,425,54
+public,Ugu DM,DC21,787096,Occupational_therapists,4,0.5
+public,Ugu DM,DC21,787096,Pharmacists,65,8.3
+public,Ugu DM,DC21,787096,Physiotherapists,12,1.5
+public,Ugu DM,DC21,787096,Professional_nurses,1246,158.3
+public,Ugu DM,DC21,787096,Psychologists,3,0.4
+public,Ugu DM,DC21,787096,Radiographers,31,3.9
+public,Ugu DM,DC21,787096,Speech_therapists_and_audiologists,10,1.3
+public,uMgungundlovu DM,DC22,1165427,Clinical_associates,16,1.4
+public,uMgungundlovu DM,DC22,1165427,Dental_practitioners,20,1.7
+public,uMgungundlovu DM,DC22,1165427,Dental_specialists,0,0
+public,uMgungundlovu DM,DC22,1165427,Dental_therapists,16,1.4
+public,uMgungundlovu DM,DC22,1165427,Enrolled_nurses,1160,99.5
+public,uMgungundlovu DM,DC22,1165427,Medical_practitioners,612,52.5
+public,uMgungundlovu DM,DC22,1165427,Medical_specialists,202,17.3
+public,uMgungundlovu DM,DC22,1165427,Nursing_assistants,734,63
+public,uMgungundlovu DM,DC22,1165427,Occupational_therapists,36,3.1
+public,uMgungundlovu DM,DC22,1165427,Pharmacists,101,8.7
+public,uMgungundlovu DM,DC22,1165427,Physiotherapists,35,3
+public,uMgungundlovu DM,DC22,1165427,Professional_nurses,2522,216.4
+public,uMgungundlovu DM,DC22,1165427,Psychologists,29,2.5
+public,uMgungundlovu DM,DC22,1165427,Radiographers,83,7.1
+public,uMgungundlovu DM,DC22,1165427,Speech_therapists_and_audiologists,14,1.2
+public,uThukela DM,DC23,758834,Clinical_associates,10,1.3
+public,uThukela DM,DC23,758834,Dental_practitioners,6,0.8
+public,uThukela DM,DC23,758834,Dental_specialists,0,0
+public,uThukela DM,DC23,758834,Dental_therapists,2,0.3
+public,uThukela DM,DC23,758834,Enrolled_nurses,504,66.4
+public,uThukela DM,DC23,758834,Medical_practitioners,143,18.8
+public,uThukela DM,DC23,758834,Medical_specialists,18,2.4
+public,uThukela DM,DC23,758834,Nursing_assistants,280,36.9
+public,uThukela DM,DC23,758834,Occupational_therapists,5,0.7
+public,uThukela DM,DC23,758834,Pharmacists,29,3.8
+public,uThukela DM,DC23,758834,Physiotherapists,15,2
+public,uThukela DM,DC23,758834,Professional_nurses,812,107
+public,uThukela DM,DC23,758834,Psychologists,2,0.3
+public,uThukela DM,DC23,758834,Radiographers,31,4.1
+public,uThukela DM,DC23,758834,Speech_therapists_and_audiologists,8,1.1
+public,uMzinyathi DM,DC24,568386,Clinical_associates,11,1.9
+public,uMzinyathi DM,DC24,568386,Dental_practitioners,4,0.7
+public,uMzinyathi DM,DC24,568386,Dental_specialists,0,0
+public,uMzinyathi DM,DC24,568386,Dental_therapists,3,0.5
+public,uMzinyathi DM,DC24,568386,Enrolled_nurses,579,101.9
+public,uMzinyathi DM,DC24,568386,Medical_practitioners,77,13.5
+public,uMzinyathi DM,DC24,568386,Medical_specialists,1,0.2
+public,uMzinyathi DM,DC24,568386,Nursing_assistants,298,52.4
+public,uMzinyathi DM,DC24,568386,Occupational_therapists,5,0.9
+public,uMzinyathi DM,DC24,568386,Pharmacists,25,4.4
+public,uMzinyathi DM,DC24,568386,Physiotherapists,7,1.2
+public,uMzinyathi DM,DC24,568386,Professional_nurses,927,163.1
+public,uMzinyathi DM,DC24,568386,Psychologists,0,0
+public,uMzinyathi DM,DC24,568386,Radiographers,15,2.6
+public,uMzinyathi DM,DC24,568386,Speech_therapists_and_audiologists,4,0.7
+public,Amajuba DM,DC25,576908,Clinical_associates,15,2.6
+public,Amajuba DM,DC25,576908,Dental_practitioners,7,1.2
+public,Amajuba DM,DC25,576908,Dental_specialists,0,0
+public,Amajuba DM,DC25,576908,Dental_therapists,6,1
+public,Amajuba DM,DC25,576908,Enrolled_nurses,449,77.8
+public,Amajuba DM,DC25,576908,Medical_practitioners,230,39.9
+public,Amajuba DM,DC25,576908,Medical_specialists,12,2.1
+public,Amajuba DM,DC25,576908,Nursing_assistants,377,65.3
+public,Amajuba DM,DC25,576908,Occupational_therapists,8,1.4
+public,Amajuba DM,DC25,576908,Pharmacists,40,6.9
+public,Amajuba DM,DC25,576908,Physiotherapists,15,2.6
+public,Amajuba DM,DC25,576908,Professional_nurses,850,147.3
+public,Amajuba DM,DC25,576908,Psychologists,4,0.7
+public,Amajuba DM,DC25,576908,Radiographers,32,5.5
+public,Amajuba DM,DC25,576908,Speech_therapists_and_audiologists,3,0.5
+public,Zululand DM,DC26,880638,Clinical_associates,14,1.6
+public,Zululand DM,DC26,880638,Dental_practitioners,6,0.7
+public,Zululand DM,DC26,880638,Dental_specialists,0,0
+public,Zululand DM,DC26,880638,Dental_therapists,4,0.5
+public,Zululand DM,DC26,880638,Enrolled_nurses,717,81.4
+public,Zululand DM,DC26,880638,Medical_practitioners,100,11.4
+public,Zululand DM,DC26,880638,Medical_specialists,2,0.2
+public,Zululand DM,DC26,880638,Nursing_assistants,387,43.9
+public,Zululand DM,DC26,880638,Occupational_therapists,3,0.3
+public,Zululand DM,DC26,880638,Pharmacists,33,3.7
+public,Zululand DM,DC26,880638,Physiotherapists,13,1.5
+public,Zululand DM,DC26,880638,Professional_nurses,1112,126.3
+public,Zululand DM,DC26,880638,Psychologists,0,0
+public,Zululand DM,DC26,880638,Radiographers,22,2.5
+public,Zululand DM,DC26,880638,Speech_therapists_and_audiologists,7,0.8
+public,uMkhanyakude DM,DC27,696042,Clinical_associates,9,1.3
+public,uMkhanyakude DM,DC27,696042,Dental_practitioners,3,0.4
+public,uMkhanyakude DM,DC27,696042,Dental_specialists,0,0
+public,uMkhanyakude DM,DC27,696042,Dental_therapists,9,1.3
+public,uMkhanyakude DM,DC27,696042,Enrolled_nurses,800,114.9
+public,uMkhanyakude DM,DC27,696042,Medical_practitioners,60,8.6
+public,uMkhanyakude DM,DC27,696042,Medical_specialists,2,0.3
+public,uMkhanyakude DM,DC27,696042,Nursing_assistants,335,48.1
+public,uMkhanyakude DM,DC27,696042,Occupational_therapists,12,1.7
+public,uMkhanyakude DM,DC27,696042,Pharmacists,31,4.5
+public,uMkhanyakude DM,DC27,696042,Physiotherapists,12,1.7
+public,uMkhanyakude DM,DC27,696042,Professional_nurses,938,134.8
+public,uMkhanyakude DM,DC27,696042,Psychologists,2,0.3
+public,uMkhanyakude DM,DC27,696042,Radiographers,27,3.9
+public,uMkhanyakude DM,DC27,696042,Speech_therapists_and_audiologists,9,1.3
+public,King Cetshwayo DM,DC28,998053,Clinical_associates,5,0.5
+public,King Cetshwayo DM,DC28,998053,Dental_practitioners,9,0.9
+public,King Cetshwayo DM,DC28,998053,Dental_specialists,0,0
+public,King Cetshwayo DM,DC28,998053,Dental_therapists,4,0.4
+public,King Cetshwayo DM,DC28,998053,Enrolled_nurses,1092,109.4
+public,King Cetshwayo DM,DC28,998053,Medical_practitioners,316,31.7
+public,King Cetshwayo DM,DC28,998053,Medical_specialists,37,3.7
+public,King Cetshwayo DM,DC28,998053,Nursing_assistants,485,48.6
+public,King Cetshwayo DM,DC28,998053,Occupational_therapists,4,0.4
+public,King Cetshwayo DM,DC28,998053,Pharmacists,55,5.5
+public,King Cetshwayo DM,DC28,998053,Physiotherapists,7,0.7
+public,King Cetshwayo DM,DC28,998053,Professional_nurses,1533,153.6
+public,King Cetshwayo DM,DC28,998053,Psychologists,3,0.3
+public,King Cetshwayo DM,DC28,998053,Radiographers,41,4.1
+public,King Cetshwayo DM,DC28,998053,Speech_therapists_and_audiologists,5,0.5
+public,iLembe DM,DC29,704966,Clinical_associates,11,1.6
+public,iLembe DM,DC29,704966,Dental_practitioners,8,1.1
+public,iLembe DM,DC29,704966,Dental_specialists,0,0
+public,iLembe DM,DC29,704966,Dental_therapists,8,1.1
+public,iLembe DM,DC29,704966,Enrolled_nurses,495,70.2
+public,iLembe DM,DC29,704966,Medical_practitioners,187,26.5
+public,iLembe DM,DC29,704966,Medical_specialists,37,5.2
+public,iLembe DM,DC29,704966,Nursing_assistants,286,40.6
+public,iLembe DM,DC29,704966,Occupational_therapists,3,0.4
+public,iLembe DM,DC29,704966,Pharmacists,37,5.2
+public,iLembe DM,DC29,704966,Physiotherapists,13,1.8
+public,iLembe DM,DC29,704966,Professional_nurses,829,117.6
+public,iLembe DM,DC29,704966,Psychologists,1,0.1
+public,iLembe DM,DC29,704966,Radiographers,27,3.8
+public,iLembe DM,DC29,704966,Speech_therapists_and_audiologists,4,0.6
+public,Overberg DM,DC3,293504,Clinical_associates,0,0
+public,Overberg DM,DC3,293504,Dental_practitioners,4,1.4
+public,Overberg DM,DC3,293504,Dental_specialists,0,0
+public,Overberg DM,DC3,293504,Dental_therapists,0,0
+public,Overberg DM,DC3,293504,Enrolled_nurses,74,25.2
+public,Overberg DM,DC3,293504,Medical_practitioners,41,14
+public,Overberg DM,DC3,293504,Medical_specialists,4,1.4
+public,Overberg DM,DC3,293504,Nursing_assistants,79,26.9
+public,Overberg DM,DC3,293504,Occupational_therapists,3,1
+public,Overberg DM,DC3,293504,Pharmacists,39,13.3
+public,Overberg DM,DC3,293504,Physiotherapists,3,1
+public,Overberg DM,DC3,293504,Professional_nurses,163,55.5
+public,Overberg DM,DC3,293504,Psychologists,2,0.7
+public,Overberg DM,DC3,293504,Radiographers,11,3.7
+public,Overberg DM,DC3,293504,Speech_therapists_and_audiologists,3,1
+public,G Sibande DM,DC30,1196425,Clinical_associates,24,2
+public,G Sibande DM,DC30,1196425,Dental_practitioners,31,2.6
+public,G Sibande DM,DC30,1196425,Dental_specialists,0,0
+public,G Sibande DM,DC30,1196425,Dental_therapists,6,0.5
+public,G Sibande DM,DC30,1196425,Enrolled_nurses,479,40
+public,G Sibande DM,DC30,1196425,Medical_practitioners,187,15.6
+public,G Sibande DM,DC30,1196425,Medical_specialists,2,0.2
+public,G Sibande DM,DC30,1196425,Nursing_assistants,384,32.1
+public,G Sibande DM,DC30,1196425,Occupational_therapists,18,1.5
+public,G Sibande DM,DC30,1196425,Pharmacists,88,7.4
+public,G Sibande DM,DC30,1196425,Physiotherapists,17,1.4
+public,G Sibande DM,DC30,1196425,Professional_nurses,1422,118.9
+public,G Sibande DM,DC30,1196425,Psychologists,8,0.7
+public,G Sibande DM,DC30,1196425,Radiographers,31,2.6
+public,G Sibande DM,DC30,1196425,Speech_therapists_and_audiologists,6,0.5
+public,Nkangala DM,DC31,1531445,Clinical_associates,16,1
+public,Nkangala DM,DC31,1531445,Dental_practitioners,29,1.9
+public,Nkangala DM,DC31,1531445,Dental_specialists,0,0
+public,Nkangala DM,DC31,1531445,Dental_therapists,2,0.1
+public,Nkangala DM,DC31,1531445,Enrolled_nurses,341,22.3
+public,Nkangala DM,DC31,1531445,Medical_practitioners,241,15.7
+public,Nkangala DM,DC31,1531445,Medical_specialists,31,2
+public,Nkangala DM,DC31,1531445,Nursing_assistants,365,23.8
+public,Nkangala DM,DC31,1531445,Occupational_therapists,18,1.2
+public,Nkangala DM,DC31,1531445,Pharmacists,57,3.7
+public,Nkangala DM,DC31,1531445,Physiotherapists,20,1.3
+public,Nkangala DM,DC31,1531445,Professional_nurses,1288,84.1
+public,Nkangala DM,DC31,1531445,Psychologists,11,0.7
+public,Nkangala DM,DC31,1531445,Radiographers,35,2.3
+public,Nkangala DM,DC31,1531445,Speech_therapists_and_audiologists,11,0.7
+public,Ehlanzeni DM,DC32,1734492,Clinical_associates,27,1.6
+public,Ehlanzeni DM,DC32,1734492,Dental_practitioners,36,2.1
+public,Ehlanzeni DM,DC32,1734492,Dental_specialists,1,0.1
+public,Ehlanzeni DM,DC32,1734492,Dental_therapists,9,0.5
+public,Ehlanzeni DM,DC32,1734492,Enrolled_nurses,1011,58.3
+public,Ehlanzeni DM,DC32,1734492,Medical_practitioners,436,25.1
+public,Ehlanzeni DM,DC32,1734492,Medical_specialists,40,2.3
+public,Ehlanzeni DM,DC32,1734492,Nursing_assistants,716,41.3
+public,Ehlanzeni DM,DC32,1734492,Occupational_therapists,30,1.7
+public,Ehlanzeni DM,DC32,1734492,Pharmacists,138,8
+public,Ehlanzeni DM,DC32,1734492,Physiotherapists,30,1.7
+public,Ehlanzeni DM,DC32,1734492,Professional_nurses,2627,151.5
+public,Ehlanzeni DM,DC32,1734492,Psychologists,17,1
+public,Ehlanzeni DM,DC32,1734492,Radiographers,48,2.8
+public,Ehlanzeni DM,DC32,1734492,Speech_therapists_and_audiologists,21,1.2
+public,Mopani DM,DC33,1225473,Clinical_associates,3,0.2
+public,Mopani DM,DC33,1225473,Dental_practitioners,31,2.5
+public,Mopani DM,DC33,1225473,Dental_specialists,0,0
+public,Mopani DM,DC33,1225473,Dental_therapists,27,2.2
+public,Mopani DM,DC33,1225473,Enrolled_nurses,727,59.3
+public,Mopani DM,DC33,1225473,Medical_practitioners,161,13.1
+public,Mopani DM,DC33,1225473,Medical_specialists,8,0.7
+public,Mopani DM,DC33,1225473,Nursing_assistants,948,77.4
+public,Mopani DM,DC33,1225473,Occupational_therapists,35,2.9
+public,Mopani DM,DC33,1225473,Pharmacists,78,6.4
+public,Mopani DM,DC33,1225473,Physiotherapists,27,2.2
+public,Mopani DM,DC33,1225473,Professional_nurses,1758,143.5
+public,Mopani DM,DC33,1225473,Psychologists,22,1.8
+public,Mopani DM,DC33,1225473,Radiographers,27,2.2
+public,Mopani DM,DC33,1225473,Speech_therapists_and_audiologists,12,1
+public,Vhembe DM,DC34,1457007,Clinical_associates,3,0.2
+public,Vhembe DM,DC34,1457007,Dental_practitioners,29,2
+public,Vhembe DM,DC34,1457007,Dental_specialists,0,0
+public,Vhembe DM,DC34,1457007,Dental_therapists,41,2.8
+public,Vhembe DM,DC34,1457007,Enrolled_nurses,859,59
+public,Vhembe DM,DC34,1457007,Medical_practitioners,200,13.7
+public,Vhembe DM,DC34,1457007,Medical_specialists,1,0.1
+public,Vhembe DM,DC34,1457007,Nursing_assistants,1125,77.2
+public,Vhembe DM,DC34,1457007,Occupational_therapists,56,3.8
+public,Vhembe DM,DC34,1457007,Pharmacists,94,6.5
+public,Vhembe DM,DC34,1457007,Physiotherapists,40,2.7
+public,Vhembe DM,DC34,1457007,Professional_nurses,2635,180.9
+public,Vhembe DM,DC34,1457007,Psychologists,15,1
+public,Vhembe DM,DC34,1457007,Radiographers,33,2.3
+public,Vhembe DM,DC34,1457007,Speech_therapists_and_audiologists,16,1.1
+public,Capricorn DM,DC35,1338763,Clinical_associates,2,0.1
+public,Capricorn DM,DC35,1338763,Dental_practitioners,52,3.9
+public,Capricorn DM,DC35,1338763,Dental_specialists,2,0.1
+public,Capricorn DM,DC35,1338763,Dental_therapists,24,1.8
+public,Capricorn DM,DC35,1338763,Enrolled_nurses,1040,77.7
+public,Capricorn DM,DC35,1338763,Medical_practitioners,525,39.2
+public,Capricorn DM,DC35,1338763,Medical_specialists,55,4.1
+public,Capricorn DM,DC35,1338763,Nursing_assistants,1176,87.8
+public,Capricorn DM,DC35,1338763,Occupational_therapists,64,4.8
+public,Capricorn DM,DC35,1338763,Pharmacists,154,11.5
+public,Capricorn DM,DC35,1338763,Physiotherapists,46,3.4
+public,Capricorn DM,DC35,1338763,Professional_nurses,2150,160.6
+public,Capricorn DM,DC35,1338763,Psychologists,41,3.1
+public,Capricorn DM,DC35,1338763,Radiographers,66,4.9
+public,Capricorn DM,DC35,1338763,Speech_therapists_and_audiologists,20,1.5
+public,Waterberg DM,DC36,715272,Clinical_associates,0,0
+public,Waterberg DM,DC36,715272,Dental_practitioners,31,4.3
+public,Waterberg DM,DC36,715272,Dental_specialists,0,0
+public,Waterberg DM,DC36,715272,Dental_therapists,21,2.9
+public,Waterberg DM,DC36,715272,Enrolled_nurses,580,81.1
+public,Waterberg DM,DC36,715272,Medical_practitioners,196,27.4
+public,Waterberg DM,DC36,715272,Medical_specialists,5,0.7
+public,Waterberg DM,DC36,715272,Nursing_assistants,616,86.1
+public,Waterberg DM,DC36,715272,Occupational_therapists,29,4.1
+public,Waterberg DM,DC36,715272,Pharmacists,81,11.3
+public,Waterberg DM,DC36,715272,Physiotherapists,28,3.9
+public,Waterberg DM,DC36,715272,Professional_nurses,1127,157.6
+public,Waterberg DM,DC36,715272,Psychologists,22,3.1
+public,Waterberg DM,DC36,715272,Radiographers,28,3.9
+public,Waterberg DM,DC36,715272,Speech_therapists_and_audiologists,12,1.7
+public,Bojanala Platinum DM,DC37,1720519,Clinical_associates,1,0.1
+public,Bojanala Platinum DM,DC37,1720519,Dental_practitioners,13,0.8
+public,Bojanala Platinum DM,DC37,1720519,Dental_specialists,0,0
+public,Bojanala Platinum DM,DC37,1720519,Dental_therapists,2,0.1
+public,Bojanala Platinum DM,DC37,1720519,Enrolled_nurses,287,16.7
+public,Bojanala Platinum DM,DC37,1720519,Medical_practitioners,234,13.6
+public,Bojanala Platinum DM,DC37,1720519,Medical_specialists,22,1.3
+public,Bojanala Platinum DM,DC37,1720519,Nursing_assistants,758,44.1
+public,Bojanala Platinum DM,DC37,1720519,Occupational_therapists,10,0.6
+public,Bojanala Platinum DM,DC37,1720519,Pharmacists,65,3.8
+public,Bojanala Platinum DM,DC37,1720519,Physiotherapists,17,1
+public,Bojanala Platinum DM,DC37,1720519,Professional_nurses,1392,80.9
+public,Bojanala Platinum DM,DC37,1720519,Psychologists,8,0.5
+public,Bojanala Platinum DM,DC37,1720519,Radiographers,29,1.7
+public,Bojanala Platinum DM,DC37,1720519,Speech_therapists_and_audiologists,8,0.5
+public,NM Molema DM,DC38,957449,Clinical_associates,9,0.9
+public,NM Molema DM,DC38,957449,Dental_practitioners,16,1.7
+public,NM Molema DM,DC38,957449,Dental_specialists,0,0
+public,NM Molema DM,DC38,957449,Dental_therapists,6,0.6
+public,NM Molema DM,DC38,957449,Enrolled_nurses,226,23.6
+public,NM Molema DM,DC38,957449,Medical_practitioners,175,18.3
+public,NM Molema DM,DC38,957449,Medical_specialists,15,1.6
+public,NM Molema DM,DC38,957449,Nursing_assistants,638,66.6
+public,NM Molema DM,DC38,957449,Occupational_therapists,9,0.9
+public,NM Molema DM,DC38,957449,Pharmacists,56,5.8
+public,NM Molema DM,DC38,957449,Physiotherapists,17,1.8
+public,NM Molema DM,DC38,957449,Professional_nurses,1081,112.9
+public,NM Molema DM,DC38,957449,Psychologists,12,1.3
+public,NM Molema DM,DC38,957449,Radiographers,21,2.2
+public,NM Molema DM,DC38,957449,Speech_therapists_and_audiologists,1,0.1
+public,RS Mompati DM,DC39,479326,Clinical_associates,7,1.5
+public,RS Mompati DM,DC39,479326,Dental_practitioners,12,2.5
+public,RS Mompati DM,DC39,479326,Dental_specialists,0,0
+public,RS Mompati DM,DC39,479326,Dental_therapists,2,0.4
+public,RS Mompati DM,DC39,479326,Enrolled_nurses,179,37.3
+public,RS Mompati DM,DC39,479326,Medical_practitioners,61,12.7
+public,RS Mompati DM,DC39,479326,Medical_specialists,9,1.9
+public,RS Mompati DM,DC39,479326,Nursing_assistants,431,89.9
+public,RS Mompati DM,DC39,479326,Occupational_therapists,2,0.4
+public,RS Mompati DM,DC39,479326,Pharmacists,30,6.3
+public,RS Mompati DM,DC39,479326,Physiotherapists,8,1.7
+public,RS Mompati DM,DC39,479326,Professional_nurses,629,131.2
+public,RS Mompati DM,DC39,479326,Psychologists,2,0.4
+public,RS Mompati DM,DC39,479326,Radiographers,11,2.3
+public,RS Mompati DM,DC39,479326,Speech_therapists_and_audiologists,1,0.2
+public,Garden Route DM,DC4,628623,Clinical_associates,0,0
+public,Garden Route DM,DC4,628623,Dental_practitioners,11,1.7
+public,Garden Route DM,DC4,628623,Dental_specialists,0,0
+public,Garden Route DM,DC4,628623,Dental_therapists,0,0
+public,Garden Route DM,DC4,628623,Enrolled_nurses,246,39.1
+public,Garden Route DM,DC4,628623,Medical_practitioners,167,26.6
+public,Garden Route DM,DC4,628623,Medical_specialists,51,8.1
+public,Garden Route DM,DC4,628623,Nursing_assistants,278,44.2
+public,Garden Route DM,DC4,628623,Occupational_therapists,9,1.4
+public,Garden Route DM,DC4,628623,Pharmacists,111,17.7
+public,Garden Route DM,DC4,628623,Physiotherapists,11,1.7
+public,Garden Route DM,DC4,628623,Professional_nurses,477,75.9
+public,Garden Route DM,DC4,628623,Psychologists,2,0.3
+public,Garden Route DM,DC4,628623,Radiographers,24,3.8
+public,Garden Route DM,DC4,628623,Speech_therapists_and_audiologists,2,0.3
+public,Dr K Kaunda DM,DC40,761652,Clinical_associates,13,1.7
+public,Dr K Kaunda DM,DC40,761652,Dental_practitioners,10,1.3
+public,Dr K Kaunda DM,DC40,761652,Dental_specialists,0,0
+public,Dr K Kaunda DM,DC40,761652,Dental_therapists,2,0.3
+public,Dr K Kaunda DM,DC40,761652,Enrolled_nurses,272,35.7
+public,Dr K Kaunda DM,DC40,761652,Medical_practitioners,291,38.2
+public,Dr K Kaunda DM,DC40,761652,Medical_specialists,78,10.2
+public,Dr K Kaunda DM,DC40,761652,Nursing_assistants,908,119.2
+public,Dr K Kaunda DM,DC40,761652,Occupational_therapists,16,2.1
+public,Dr K Kaunda DM,DC40,761652,Pharmacists,67,8.8
+public,Dr K Kaunda DM,DC40,761652,Physiotherapists,17,2.2
+public,Dr K Kaunda DM,DC40,761652,Professional_nurses,1183,155.3
+public,Dr K Kaunda DM,DC40,761652,Psychologists,16,2.1
+public,Dr K Kaunda DM,DC40,761652,Radiographers,39,5.1
+public,Dr K Kaunda DM,DC40,761652,Speech_therapists_and_audiologists,8,1.1
+public,Sedibeng DM,DC42,984810,Clinical_associates,7,0.7
+public,Sedibeng DM,DC42,984810,Dental_practitioners,16,1.6
+public,Sedibeng DM,DC42,984810,Dental_specialists,2,0.2
+public,Sedibeng DM,DC42,984810,Dental_therapists,6,0.6
+public,Sedibeng DM,DC42,984810,Enrolled_nurses,491,49.9
+public,Sedibeng DM,DC42,984810,Medical_practitioners,163,16.6
+public,Sedibeng DM,DC42,984810,Medical_specialists,34,3.5
+public,Sedibeng DM,DC42,984810,Nursing_assistants,339,34.4
+public,Sedibeng DM,DC42,984810,Occupational_therapists,8,0.8
+public,Sedibeng DM,DC42,984810,Pharmacists,129,13.1
+public,Sedibeng DM,DC42,984810,Physiotherapists,4,0.4
+public,Sedibeng DM,DC42,984810,Professional_nurses,946,96.1
+public,Sedibeng DM,DC42,984810,Psychologists,5,0.5
+public,Sedibeng DM,DC42,984810,Radiographers,35,3.6
+public,Sedibeng DM,DC42,984810,Speech_therapists_and_audiologists,7,0.7
+public,Harry Gwala DM,DC43,513317,Clinical_associates,5,1
+public,Harry Gwala DM,DC43,513317,Dental_practitioners,2,0.4
+public,Harry Gwala DM,DC43,513317,Dental_specialists,0,0
+public,Harry Gwala DM,DC43,513317,Dental_therapists,6,1.2
+public,Harry Gwala DM,DC43,513317,Enrolled_nurses,383,74.6
+public,Harry Gwala DM,DC43,513317,Medical_practitioners,60,11.7
+public,Harry Gwala DM,DC43,513317,Medical_specialists,1,0.2
+public,Harry Gwala DM,DC43,513317,Nursing_assistants,305,59.4
+public,Harry Gwala DM,DC43,513317,Occupational_therapists,6,1.2
+public,Harry Gwala DM,DC43,513317,Pharmacists,26,5.1
+public,Harry Gwala DM,DC43,513317,Physiotherapists,9,1.8
+public,Harry Gwala DM,DC43,513317,Professional_nurses,694,135.2
+public,Harry Gwala DM,DC43,513317,Psychologists,2,0.4
+public,Harry Gwala DM,DC43,513317,Radiographers,15,2.9
+public,Harry Gwala DM,DC43,513317,Speech_therapists_and_audiologists,0,0
+public,A Nzo DM,DC44,869157,Clinical_associates,12,1.4
+public,A Nzo DM,DC44,869157,Dental_practitioners,10,1.2
+public,A Nzo DM,DC44,869157,Dental_specialists,0,0
+public,A Nzo DM,DC44,869157,Dental_therapists,0,0
+public,A Nzo DM,DC44,869157,Enrolled_nurses,284,32.7
+public,A Nzo DM,DC44,869157,Medical_practitioners,76,8.7
+public,A Nzo DM,DC44,869157,Medical_specialists,0,0
+public,A Nzo DM,DC44,869157,Nursing_assistants,580,66.7
+public,A Nzo DM,DC44,869157,Occupational_therapists,2,0.2
+public,A Nzo DM,DC44,869157,Pharmacists,25,2.9
+public,A Nzo DM,DC44,869157,Physiotherapists,10,1.2
+public,A Nzo DM,DC44,869157,Professional_nurses,823,94.7
+public,A Nzo DM,DC44,869157,Psychologists,0,0
+public,A Nzo DM,DC44,869157,Radiographers,19,2.2
+public,A Nzo DM,DC44,869157,Speech_therapists_and_audiologists,1,0.1
+public,JT Gaetsewe DM,DC45,243804,Clinical_associates,2,0.8
+public,JT Gaetsewe DM,DC45,243804,Dental_practitioners,0,0
+public,JT Gaetsewe DM,DC45,243804,Dental_specialists,0,0
+public,JT Gaetsewe DM,DC45,243804,Dental_therapists,0,0
+public,JT Gaetsewe DM,DC45,243804,Enrolled_nurses,23,9.4
+public,JT Gaetsewe DM,DC45,243804,Medical_practitioners,15,6.2
+public,JT Gaetsewe DM,DC45,243804,Medical_specialists,1,0.4
+public,JT Gaetsewe DM,DC45,243804,Nursing_assistants,115,47.2
+public,JT Gaetsewe DM,DC45,243804,Occupational_therapists,1,0.4
+public,JT Gaetsewe DM,DC45,243804,Pharmacists,7,2.9
+public,JT Gaetsewe DM,DC45,243804,Physiotherapists,2,0.8
+public,JT Gaetsewe DM,DC45,243804,Professional_nurses,255,104.6
+public,JT Gaetsewe DM,DC45,243804,Psychologists,0,0
+public,JT Gaetsewe DM,DC45,243804,Radiographers,6,2.5
+public,JT Gaetsewe DM,DC45,243804,Speech_therapists_and_audiologists,1,0.4
+public,Sekhukhune DM,DC47,1233967,Clinical_associates,3,0.2
+public,Sekhukhune DM,DC47,1233967,Dental_practitioners,32,2.6
+public,Sekhukhune DM,DC47,1233967,Dental_specialists,0,0
+public,Sekhukhune DM,DC47,1233967,Dental_therapists,25,2
+public,Sekhukhune DM,DC47,1233967,Enrolled_nurses,744,60.3
+public,Sekhukhune DM,DC47,1233967,Medical_practitioners,149,12.1
+public,Sekhukhune DM,DC47,1233967,Medical_specialists,3,0.2
+public,Sekhukhune DM,DC47,1233967,Nursing_assistants,816,66.1
+public,Sekhukhune DM,DC47,1233967,Occupational_therapists,31,2.5
+public,Sekhukhune DM,DC47,1233967,Pharmacists,94,7.6
+public,Sekhukhune DM,DC47,1233967,Physiotherapists,29,2.4
+public,Sekhukhune DM,DC47,1233967,Professional_nurses,1508,122.2
+public,Sekhukhune DM,DC47,1233967,Psychologists,20,1.6
+public,Sekhukhune DM,DC47,1233967,Radiographers,32,2.6
+public,Sekhukhune DM,DC47,1233967,Speech_therapists_and_audiologists,13,1.1
+public,West Rand DM,DC48,881918,Clinical_associates,7,0.8
+public,West Rand DM,DC48,881918,Dental_practitioners,13,1.5
+public,West Rand DM,DC48,881918,Dental_specialists,0,0
+public,West Rand DM,DC48,881918,Dental_therapists,5,0.6
+public,West Rand DM,DC48,881918,Enrolled_nurses,653,74
+public,West Rand DM,DC48,881918,Medical_practitioners,234,26.5
+public,West Rand DM,DC48,881918,Medical_specialists,58,6.6
+public,West Rand DM,DC48,881918,Nursing_assistants,563,63.8
+public,West Rand DM,DC48,881918,Occupational_therapists,16,1.8
+public,West Rand DM,DC48,881918,Pharmacists,95,10.8
+public,West Rand DM,DC48,881918,Physiotherapists,9,1
+public,West Rand DM,DC48,881918,Professional_nurses,1188,134.7
+public,West Rand DM,DC48,881918,Psychologists,24,2.7
+public,West Rand DM,DC48,881918,Radiographers,30,3.4
+public,West Rand DM,DC48,881918,Speech_therapists_and_audiologists,5,0.6
+public,Central Karoo DM,DC5,76821,Clinical_associates,0,0
+public,Central Karoo DM,DC5,76821,Dental_practitioners,2,2.6
+public,Central Karoo DM,DC5,76821,Dental_specialists,0,0
+public,Central Karoo DM,DC5,76821,Dental_therapists,0,0
+public,Central Karoo DM,DC5,76821,Enrolled_nurses,33,43
+public,Central Karoo DM,DC5,76821,Medical_practitioners,9,11.7
+public,Central Karoo DM,DC5,76821,Medical_specialists,0,0
+public,Central Karoo DM,DC5,76821,Nursing_assistants,55,71.6
+public,Central Karoo DM,DC5,76821,Occupational_therapists,1,1.3
+public,Central Karoo DM,DC5,76821,Pharmacists,18,23.4
+public,Central Karoo DM,DC5,76821,Physiotherapists,1,1.3
+public,Central Karoo DM,DC5,76821,Professional_nurses,79,102.8
+public,Central Karoo DM,DC5,76821,Psychologists,0,0
+public,Central Karoo DM,DC5,76821,Radiographers,4,5.2
+public,Central Karoo DM,DC5,76821,Speech_therapists_and_audiologists,2,2.6
+public,Namakwa DM,DC6,113554,Clinical_associates,0,0
+public,Namakwa DM,DC6,113554,Dental_practitioners,4,3.5
+public,Namakwa DM,DC6,113554,Dental_specialists,0,0
+public,Namakwa DM,DC6,113554,Dental_therapists,0,0
+public,Namakwa DM,DC6,113554,Enrolled_nurses,30,26.4
+public,Namakwa DM,DC6,113554,Medical_practitioners,17,15
+public,Namakwa DM,DC6,113554,Medical_specialists,0,0
+public,Namakwa DM,DC6,113554,Nursing_assistants,84,74
+public,Namakwa DM,DC6,113554,Occupational_therapists,4,3.5
+public,Namakwa DM,DC6,113554,Pharmacists,11,9.7
+public,Namakwa DM,DC6,113554,Physiotherapists,8,7
+public,Namakwa DM,DC6,113554,Professional_nurses,132,116.2
+public,Namakwa DM,DC6,113554,Psychologists,1,0.9
+public,Namakwa DM,DC6,113554,Radiographers,9,7.9
+public,Namakwa DM,DC6,113554,Speech_therapists_and_audiologists,1,0.9
+public,Pixley Ka Seme DM,DC7,209791,Clinical_associates,0,0
+public,Pixley Ka Seme DM,DC7,209791,Dental_practitioners,5,2.4
+public,Pixley Ka Seme DM,DC7,209791,Dental_specialists,0,0
+public,Pixley Ka Seme DM,DC7,209791,Dental_therapists,0,0
+public,Pixley Ka Seme DM,DC7,209791,Enrolled_nurses,40,19.1
+public,Pixley Ka Seme DM,DC7,209791,Medical_practitioners,17,8.1
+public,Pixley Ka Seme DM,DC7,209791,Medical_specialists,0,0
+public,Pixley Ka Seme DM,DC7,209791,Nursing_assistants,147,70.1
+public,Pixley Ka Seme DM,DC7,209791,Occupational_therapists,3,1.4
+public,Pixley Ka Seme DM,DC7,209791,Pharmacists,19,9.1
+public,Pixley Ka Seme DM,DC7,209791,Physiotherapists,3,1.4
+public,Pixley Ka Seme DM,DC7,209791,Professional_nurses,202,96.3
+public,Pixley Ka Seme DM,DC7,209791,Psychologists,1,0.5
+public,Pixley Ka Seme DM,DC7,209791,Radiographers,7,3.3
+public,Pixley Ka Seme DM,DC7,209791,Speech_therapists_and_audiologists,0,0
+public,ZF Mgcawu DM,DC8,263401,Clinical_associates,0,0
+public,ZF Mgcawu DM,DC8,263401,Dental_practitioners,4,1.5
+public,ZF Mgcawu DM,DC8,263401,Dental_specialists,0,0
+public,ZF Mgcawu DM,DC8,263401,Dental_therapists,3,1.1
+public,ZF Mgcawu DM,DC8,263401,Enrolled_nurses,59,22.4
+public,ZF Mgcawu DM,DC8,263401,Medical_practitioners,45,17.1
+public,ZF Mgcawu DM,DC8,263401,Medical_specialists,1,0.4
+public,ZF Mgcawu DM,DC8,263401,Nursing_assistants,191,72.5
+public,ZF Mgcawu DM,DC8,263401,Occupational_therapists,5,1.9
+public,ZF Mgcawu DM,DC8,263401,Pharmacists,18,6.8
+public,ZF Mgcawu DM,DC8,263401,Physiotherapists,8,3
+public,ZF Mgcawu DM,DC8,263401,Professional_nurses,236,89.6
+public,ZF Mgcawu DM,DC8,263401,Psychologists,3,1.1
+public,ZF Mgcawu DM,DC8,263401,Radiographers,14,5.3
+public,ZF Mgcawu DM,DC8,263401,Speech_therapists_and_audiologists,5,1.9
+public,Frances Baard DM,DC9,381186,Clinical_associates,0,0
+public,Frances Baard DM,DC9,381186,Dental_practitioners,12,3.1
+public,Frances Baard DM,DC9,381186,Dental_specialists,0,0
+public,Frances Baard DM,DC9,381186,Dental_therapists,5,1.3
+public,Frances Baard DM,DC9,381186,Enrolled_nurses,85,22.3
+public,Frances Baard DM,DC9,381186,Medical_practitioners,256,67.2
+public,Frances Baard DM,DC9,381186,Medical_specialists,21,5.5
+public,Frances Baard DM,DC9,381186,Nursing_assistants,319,83.7
+public,Frances Baard DM,DC9,381186,Occupational_therapists,20,5.2
+public,Frances Baard DM,DC9,381186,Pharmacists,59,15.5
+public,Frances Baard DM,DC9,381186,Physiotherapists,16,4.2
+public,Frances Baard DM,DC9,381186,Professional_nurses,567,148.7
+public,Frances Baard DM,DC9,381186,Psychologists,12,3.1
+public,Frances Baard DM,DC9,381186,Radiographers,39,10.2
+public,Frances Baard DM,DC9,381186,Speech_therapists_and_audiologists,6,1.6
+public,City of Ekurhuleni MM,EKU,3561977,Clinical_associates,4,0.1
+public,City of Ekurhuleni MM,EKU,3561977,Dental_practitioners,24,0.7
+public,City of Ekurhuleni MM,EKU,3561977,Dental_specialists,0,0
+public,City of Ekurhuleni MM,EKU,3561977,Dental_therapists,11,0.3
+public,City of Ekurhuleni MM,EKU,3561977,Enrolled_nurses,1346,37.8
+public,City of Ekurhuleni MM,EKU,3561977,Medical_practitioners,804,22.6
+public,City of Ekurhuleni MM,EKU,3561977,Medical_specialists,106,3
+public,City of Ekurhuleni MM,EKU,3561977,Nursing_assistants,1104,31
+public,City of Ekurhuleni MM,EKU,3561977,Occupational_therapists,37,1
+public,City of Ekurhuleni MM,EKU,3561977,Pharmacists,253,7.1
+public,City of Ekurhuleni MM,EKU,3561977,Physiotherapists,35,1
+public,City of Ekurhuleni MM,EKU,3561977,Professional_nurses,2437,68.4
+public,City of Ekurhuleni MM,EKU,3561977,Psychologists,21,0.6
+public,City of Ekurhuleni MM,EKU,3561977,Radiographers,95,2.7
+public,City of Ekurhuleni MM,EKU,3561977,Speech_therapists_and_audiologists,27,0.8
+public,eThekwini MM,ETH,3767465,Clinical_associates,11,0.3
+public,eThekwini MM,ETH,3767465,Dental_practitioners,32,0.8
+public,eThekwini MM,ETH,3767465,Dental_specialists,0,0
+public,eThekwini MM,ETH,3767465,Dental_therapists,31,0.8
+public,eThekwini MM,ETH,3767465,Enrolled_nurses,2885,76.6
+public,eThekwini MM,ETH,3767465,Medical_practitioners,1469,39
+public,eThekwini MM,ETH,3767465,Medical_specialists,503,13.4
+public,eThekwini MM,ETH,3767465,Nursing_assistants,2140,56.8
+public,eThekwini MM,ETH,3767465,Occupational_therapists,43,1.1
+public,eThekwini MM,ETH,3767465,Pharmacists,321,8.5
+public,eThekwini MM,ETH,3767465,Physiotherapists,117,3.1
+public,eThekwini MM,ETH,3767465,Professional_nurses,5243,139.2
+public,eThekwini MM,ETH,3767465,Psychologists,24,0.6
+public,eThekwini MM,ETH,3767465,Radiographers,243,6.4
+public,eThekwini MM,ETH,3767465,Speech_therapists_and_audiologists,36,1
+public,Johannesburg MM,JHB,5201673,Clinical_associates,5,0.1
+public,Johannesburg MM,JHB,5201673,Dental_practitioners,59,1.1
+public,Johannesburg MM,JHB,5201673,Dental_specialists,37,0.7
+public,Johannesburg MM,JHB,5201673,Dental_therapists,9,0.2
+public,Johannesburg MM,JHB,5201673,Enrolled_nurses,2590,49.8
+public,Johannesburg MM,JHB,5201673,Medical_practitioners,1255,24.1
+public,Johannesburg MM,JHB,5201673,Medical_specialists,894,17.2
+public,Johannesburg MM,JHB,5201673,Nursing_assistants,2412,46.4
+public,Johannesburg MM,JHB,5201673,Occupational_therapists,57,1.1
+public,Johannesburg MM,JHB,5201673,Pharmacists,350,6.7
+public,Johannesburg MM,JHB,5201673,Physiotherapists,65,1.2
+public,Johannesburg MM,JHB,5201673,Professional_nurses,4551,87.5
+public,Johannesburg MM,JHB,5201673,Psychologists,63,1.2
+public,Johannesburg MM,JHB,5201673,Radiographers,273,5.2
+public,Johannesburg MM,JHB,5201673,Speech_therapists_and_audiologists,55,1.1
+public,Mangaung MM,MAN,780755,Clinical_associates,4,0.5
+public,Mangaung MM,MAN,780755,Dental_practitioners,18,2.3
+public,Mangaung MM,MAN,780755,Dental_specialists,1,0.1
+public,Mangaung MM,MAN,780755,Dental_therapists,0,0
+public,Mangaung MM,MAN,780755,Enrolled_nurses,370,47.4
+public,Mangaung MM,MAN,780755,Medical_practitioners,275,35.2
+public,Mangaung MM,MAN,780755,Medical_specialists,284,36.4
+public,Mangaung MM,MAN,780755,Nursing_assistants,1064,136.3
+public,Mangaung MM,MAN,780755,Occupational_therapists,28,3.6
+public,Mangaung MM,MAN,780755,Pharmacists,112,14.3
+public,Mangaung MM,MAN,780755,Physiotherapists,27,3.5
+public,Mangaung MM,MAN,780755,Professional_nurses,987,126.4
+public,Mangaung MM,MAN,780755,Psychologists,16,2
+public,Mangaung MM,MAN,780755,Radiographers,80,10.2
+public,Mangaung MM,MAN,780755,Speech_therapists_and_audiologists,7,0.9
+public,N Mandela Bay MM,NMA,1302906,Clinical_associates,0,0
+public,N Mandela Bay MM,NMA,1302906,Dental_practitioners,34,2.6
+public,N Mandela Bay MM,NMA,1302906,Dental_specialists,0,0
+public,N Mandela Bay MM,NMA,1302906,Dental_therapists,3,0.2
+public,N Mandela Bay MM,NMA,1302906,Enrolled_nurses,481,36.9
+public,N Mandela Bay MM,NMA,1302906,Medical_practitioners,505,38.8
+public,N Mandela Bay MM,NMA,1302906,Medical_specialists,79,6.1
+public,N Mandela Bay MM,NMA,1302906,Nursing_assistants,672,51.6
+public,N Mandela Bay MM,NMA,1302906,Occupational_therapists,34,2.6
+public,N Mandela Bay MM,NMA,1302906,Pharmacists,179,13.7
+public,N Mandela Bay MM,NMA,1302906,Physiotherapists,36,2.8
+public,N Mandela Bay MM,NMA,1302906,Professional_nurses,1849,141.9
+public,N Mandela Bay MM,NMA,1302906,Psychologists,36,2.8
+public,N Mandela Bay MM,NMA,1302906,Radiographers,102,7.8
+public,N Mandela Bay MM,NMA,1302906,Speech_therapists_and_audiologists,11,0.8
+public,Tshwane MM,TSH,3473874,Clinical_associates,15,0.4
+public,Tshwane MM,TSH,3473874,Dental_practitioners,121,3.5
+public,Tshwane MM,TSH,3473874,Dental_specialists,69,2
+public,Tshwane MM,TSH,3473874,Dental_therapists,14,0.4
+public,Tshwane MM,TSH,3473874,Enrolled_nurses,2344,67.5
+public,Tshwane MM,TSH,3473874,Medical_practitioners,927,26.7
+public,Tshwane MM,TSH,3473874,Medical_specialists,757,21.8
+public,Tshwane MM,TSH,3473874,Nursing_assistants,1995,57.4
+public,Tshwane MM,TSH,3473874,Occupational_therapists,78,2.2
+public,Tshwane MM,TSH,3473874,Pharmacists,317,9.1
+public,Tshwane MM,TSH,3473874,Physiotherapists,66,1.9
+public,Tshwane MM,TSH,3473874,Professional_nurses,4093,117.8
+public,Tshwane MM,TSH,3473874,Psychologists,79,2.3
+public,Tshwane MM,TSH,3473874,Radiographers,204,5.9
+public,Tshwane MM,TSH,3473874,Speech_therapists_and_audiologists,29,0.8
